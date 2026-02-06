@@ -3,7 +3,7 @@ name: Website Monitor
 on:
   schedule:
     # Runs every 3 hours (at :00 minutes)
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'
   
   # Allows manual trigger from GitHub Actions tab
   workflow_dispatch:
