@@ -23,7 +23,7 @@ WEBSITES = [
     {
         'name': 'Sarkari Result Notification',
         'url': 'https://www.sarkariresult.com/',
-        'selector': '#v-sarkariresult li #post li',
+        'selector': '#v-sarkariresult li, #post li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
@@ -39,7 +39,7 @@ WEBSITES = [
     {
         'name': 'SSC - Latest News',
         'url': 'https://ssc.nic.in/',
-        'selector': '.news ul li, .latest ul li, .whats-new ul li',
+        'selector': '.linkHead li,  .notice-board li, .card li, .innerCardHead li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
