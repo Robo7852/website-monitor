@@ -13,9 +13,9 @@ TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 # Website configurations - customize the CSS selectors for each site
 WEBSITES = [
     {
-        'name': 'UPSC - What\'s New',
-        'url': 'https://www.upsc.gov.in/',
-        'selector': '.whats_new ul li, .whatsnew ul li, #whatsNew ul li, .latest-updates ul li',
+        'name': 'UPSC New Examinations',
+        'url': 'https://upsc.gov.in/examinations/active-exams/',
+        'selector': '.view view-exams view-id-exams view-display-id-page_1 view-dom-id-25e80baffe11ec329e64d7dcb13e7e00 li, .view-content li, .views-row views-row-1 views-row-odd views-row-first li, .views-row views-row-2 views-row-even li, .views-row views-row-3 views-row-odd li',
         'type': 'list',  # Extract list items
         'link_selector': 'a',  # How to find links within items
         'max_items': 5  # Show top 5 latest items
@@ -29,9 +29,9 @@ WEBSITES = [
         'max_items': 5
     },
     {
-        'name': 'MPPEB - Latest Updates',
-        'url': 'https://peb.mp.gov.in/',
-        'selector': 'marquee, .marquee, .latest-news li, .whats-new li',
+        'name': 'MPESB Latest Update',
+        'url': 'https://esb.mp.gov.in/e_default.html',
+        'selector': '.modal-content li, .modal li, #myModal li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
@@ -45,17 +45,33 @@ WEBSITES = [
         'max_items': 5
     },
     {
-        'name': 'Reddit - Popular',
-        'url': 'https://www.reddit.com/r/all/new/',
-        'selector': '.absolute inset-0 li',
+        'name': 'UGC NET UPDATES',
+        'url': 'https://ugcnet.nta.nic.in/',
+        'selector': '.gen-list    no-border no-bg  padding-0 border-radius-none default-list li, #public-notices-content li, .wpb_wrapper li, .gen-list  medium-font  no-bg  padding-20 border-radius-medium default-list accent-border-color li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
     },
     {
-        'name': 'Reuters - World News',
-        'url': 'https://www.reuters.com/world/',
-        'selector': 'article h3, .story-card',
+        'name': 'ALL INDIA BAR EXAMINATION',
+        'url': 'https://www.allindiabarexamination.com/',
+        'selector': '.container li, .Notice text-left li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'NTA UPDATES',
+        'url': 'https://nta.ac.in/NoticeBoardArchive',
+        'selector': 'table tr',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'Finshot updates',
+        'url': 'https://finshots.in/archive/',
+        'selector': '.post-feed li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
