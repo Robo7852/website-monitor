@@ -77,9 +77,9 @@ WEBSITES = [
         'max_items': 5
     },
     {
-        'name': 'Railway Recruitment Board',
-        'url': 'https://www.rrbcdg.gov.in/',
-        'selector': '.latest-news li, .marquee, .updates li',
+        'name': 'Vajiram Current Affairs',
+        'url': 'https://vajiramandravi.com/current-affairs/',
+        'selector': '.lcontainer li, .lcolumn li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
