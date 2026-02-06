@@ -21,9 +21,9 @@ WEBSITES = [
         'max_items': 5  # Show top 5 latest items
     },
     {
-        'name': 'UPSC - Notifications',
-        'url': 'https://www.upsc.gov.in/notifications',
-        'selector': '.notification-list li, .content ul li, main ul li',
+        'name': 'Sarkari Result Notification',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': '#v-sarkariresult li #post li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
