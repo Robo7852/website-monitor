@@ -45,6 +45,22 @@ WEBSITES = [
         'max_items': 5
     },
     {
+        'name': 'BBC News - Latest',
+        'url': 'https://www.bbc.com/news',
+        'selector': '.nw-c-top-stories__item, article h3',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'Reuters - World News',
+        'url': 'https://www.reuters.com/world/',
+        'selector': 'article h3, .story-card',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
         'name': 'Railway Recruitment Board',
         'url': 'https://www.rrbcdg.gov.in/',
         'selector': '.latest-news li, .marquee, .updates li',
