@@ -2,7 +2,7 @@ import requests
 import hashlib
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
@@ -300,7 +300,11 @@ def check_websites():
             
             message += f"━━━━━━━━━━━━━━━━━━━━\n\n"
         
-        message += f"⏰ <i>Checked at: {datetime.now().strftime('%d-%m-%Y %I:%M %p IST')}</i>"
+        # Get IST time (UTC + 5:30)
+        utc_now = datetime.now(timezone.utc)
+        ist_offset = timedelta(hours=5, minutes=30)
+        ist_time = utc_now + ist_offset
+        message += f"⏰ <i>Checked at: {ist_time.strftime('%d-%m-%Y %I:%M %p')} IST</i>"
         
         print(f"\n📱 Sending Telegram notification with {len(all_updates)} update(s)...")
         if send_telegram_message(message):
