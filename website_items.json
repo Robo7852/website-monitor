@@ -1,6 +1,18 @@
 {
   "Sarkari Result Notification": [
     {
+      "title": "RSSB 4th Class Employee 2024 Revised Result with Cutoff",
+      "link": "https://www.sarkariresult.com/rpsc/rssb-fourth-class-advt-19-2024/",
+      "date": "",
+      "id": "24b20ccaa86b"
+    },
+    {
+      "title": "Oriental Insurance OICL AO Result 2026",
+      "link": "https://orientalinsurance.org.in/careers",
+      "date": "",
+      "id": "430d93e32ca9"
+    },
+    {
       "title": "UPPSC LT Grade Assistant Teacher Result 2026",
       "link": "https://www.sarkariresult.com/2025/uppsc-lt-grade-teacher-2025/",
       "date": "",
@@ -17,18 +29,6 @@
       "link": "https://www.sarkariresult.com/ssc/ssc-selection-post-13th-2025/",
       "date": "",
       "id": "1adad7a11e33"
-    },
-    {
-      "title": "RPSC RAS 2023 Final Result",
-      "link": "https://www.sarkariresult.com/rpsc/rpsc-ras-2023/",
-      "date": "",
-      "id": "11bcdc582e5c"
-    },
-    {
-      "title": "SBI Clerk  2024 Third Waiting List",
-      "link": "https://www.sarkariresult.com/bank/sbi-clerk-dec24/",
-      "date": "",
-      "id": "94fe7fffb91a"
     }
   ],
   "MPESB Latest Update": [],
@@ -127,16 +127,10 @@
   "Vajiram Current Affairs": [],
   "CTET UPDATES": [
     {
-      "title": "(link2) Download Admit Card: CTET Feb-2026",
+      "title": "Download Admit Card: CTET Feb-2026",
       "link": "https://ctet.nic.in/link2-download-admit-card-ctet-feb-2026/",
       "date": "",
-      "id": "44a315ec1eef"
-    },
-    {
-      "title": "(link1) Download Admit Card: CTET Feb-2026",
-      "link": "https://ctet.nic.in/download-admit-card-ctet-feb-2026/",
-      "date": "",
-      "id": "e17d2cd62d5b"
+      "id": "8bae25bff821"
     },
     {
       "title": "PUBLIC NOTICE: CTET FEB2026: PwD, Scribe etc. Dated 04.02.2026",
@@ -155,6 +149,12 @@
       "link": "https://ctet.nic.in/#1648443930839-ad09422b-9ead",
       "date": "",
       "id": "5ebf6ce53795"
+    },
+    {
+      "title": "PUBLIC NOTICE: PwD, Scribe etc. Dated 04.02.2026",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/02/202602052026341619.pdf",
+      "date": "",
+      "id": "83a8e9c3bfc5"
     }
   ]
 }
