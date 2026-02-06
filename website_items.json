@@ -1,1 +1,28 @@
-{}
+{
+  "Sarkari Result Notification": [
+    {
+      "title": "Latest Jobs",
+      "link": "https://www.sarkariresult.com/latestjob/",
+      "date": "",
+      "id": "a526dc2c9a3e"
+    },
+    {
+      "title": "Results",
+      "link": "https://www.sarkariresult.com/result/",
+      "date": "",
+      "id": "03a6fd382474"
+    },
+    {
+      "title": "Admit Card",
+      "link": "https://www.sarkariresult.com/admitcard/",
+      "date": "",
+      "id": "affade554478"
+    },
+    {
+      "title": "Answer Key",
+      "link": "https://www.sarkariresult.com/answerkey/",
+      "date": "",
+      "id": "2fb8b44dac1c"
+    }
+  ]
+}
