@@ -45,9 +45,9 @@ WEBSITES = [
         'max_items': 5
     },
     {
-        'name': 'BBC News - Latest',
-        'url': 'https://www.bbc.com/news',
-        'selector': '.nw-c-top-stories__item, article h3',
+        'name': 'Reddit - Popular',
+        'url': 'https://www.reddit.com/r/all/new/',
+        'selector': '.absolute inset-0 li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
