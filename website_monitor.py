@@ -84,6 +84,14 @@ WEBSITES = [
         'link_selector': 'a',
         'max_items': 5
     },
+    {
+        'name': 'CTET UPDATES',
+        'url': 'https://ctet.nic.in/',
+        'selector': '.wpb_wrapper li, .vc_tta-container li, .vc_tta-panels-container li, .vc_tta-panel-body li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
     # Add more websites here following the same pattern
 ]
 
