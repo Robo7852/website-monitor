@@ -32,7 +32,26 @@
     }
   ],
   "MPESB Latest Update": [],
-  "SSC - Latest News": [],
+  "SSC - Latest News": [
+    {
+      "title": "Notices",
+      "link": "https://ssc.nic.in/Portal/Notices",
+      "date": "",
+      "id": "62218cbad44d"
+    },
+    {
+      "title": "Admit Card",
+      "link": "https://ssc.nic.in/Portal/AdmitCard",
+      "date": "",
+      "id": "caaf5d091840"
+    },
+    {
+      "title": "Answer key",
+      "link": "https://ssc.nic.in/Portal/AnswerKey",
+      "date": "",
+      "id": "a5ee61e3369d"
+    }
+  ],
   "UGC NET UPDATES": [
     {
       "title": "Results for UGC-NET Dec 2025 is LIVE!",
