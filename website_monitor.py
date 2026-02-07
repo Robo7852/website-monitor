@@ -37,8 +37,8 @@ WEBSITES = [
         'max_items': 5
     },
     {
-        'name': 'SSC - Latest News',
-        'url': 'https://ssc.nic.in/',
+        'name': 'SSC - Latest Updates',
+        'url': 'https://ssc.gov.in/',
         'selector': '.linkHead li,  .notice-board li, .card li, .innerCardHead li',
         'type': 'list',
         'link_selector': 'a',
