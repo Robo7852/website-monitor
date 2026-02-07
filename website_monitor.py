@@ -71,7 +71,7 @@ WEBSITES = [
     {
         'name': 'Finshot updates',
         'url': 'https://finshots.in/archive/',
-        'selector': '.post-feed li',
+        'selector': '.post-feed li, .post-card-content li, .post-card-content-link li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
