@@ -126,10 +126,16 @@
   "Vajiram Current Affairs": [],
   "CTET UPDATES": [
     {
-      "title": "Download Admit Card: CTET Feb-2026",
+      "title": "(Link2) Download Admit Card: CTET Feb-2026",
       "link": "https://ctet.nic.in/link2-download-admit-card-ctet-feb-2026/",
       "date": "",
-      "id": "8bae25bff821"
+      "id": "c4253b47dce3"
+    },
+    {
+      "title": "(link1) Download Admit Card: CTET Feb-2026",
+      "link": "https://ctet.nic.in/download-admit-card-ctet-feb-2026/",
+      "date": "",
+      "id": "e17d2cd62d5b"
     },
     {
       "title": "PUBLIC NOTICE: CTET FEB2026: PwD, Scribe etc. Dated 04.02.2026",
@@ -148,12 +154,6 @@
       "link": "https://ctet.nic.in/#1648443930839-ad09422b-9ead",
       "date": "",
       "id": "5ebf6ce53795"
-    },
-    {
-      "title": "PUBLIC NOTICE: PwD, Scribe etc. Dated 04.02.2026",
-      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/02/202602052026341619.pdf",
-      "date": "",
-      "id": "83a8e9c3bfc5"
     }
   ]
 }
