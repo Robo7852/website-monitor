@@ -79,7 +79,7 @@ WEBSITES = [
     {
         'name': 'Vajiram Current Affairs',
         'url': 'https://vajiramandravi.com/current-affairs/',
-        'selector': '.lcontainer li, .lcolumn li',
+        'selector': '.lcontainer li, .lcolumn li, .item li, .posts-grid li, .left-section li, .first-post li, .right-section li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
