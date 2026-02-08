@@ -92,34 +92,34 @@
   ],
   "NTA UPDATES": [
     {
-      "title": "#Notice TitleAttachement",
-      "link": "",
+      "title": "Mock Test",
+      "link": "https://nta.ac.in/Quiz",
       "date": "",
-      "id": "f82827f6c227"
+      "id": "6ecc060e7b22"
     },
     {
-      "title": "Read More",
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260207175241.pdf",
+      "title": "Twitter",
+      "link": "https://twitter.com/NTA_exams",
       "date": "",
-      "id": "35a7e1f10912"
+      "id": "782fcde85758"
     },
     {
-      "title": "Read More",
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260204220212.pdf",
+      "title": "Play Store",
+      "link": "https://play.google.com/store/apps/dev?id=7746914636480815659",
       "date": "",
-      "id": "3a446861d153"
+      "id": "5be13117cc4a"
     },
     {
-      "title": "Read More",
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260205114955.pdf",
+      "title": "App Store",
+      "link": "https://apps.apple.com/in/developer/national-testing-agency/id1520417658",
       "date": "",
-      "id": "ea8a7eec49b3"
+      "id": "cd13a6f94a91"
     },
     {
-      "title": "Read More",
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260204122743.pdf",
+      "title": "NTA Registration and MoA",
+      "link": "https://nta.ac.in/Download/NTARegistrationandMOA.pdf",
       "date": "",
-      "id": "b524d4447887"
+      "id": "4a355a6b8f52"
     }
   ],
   "Finshot updates": [],
