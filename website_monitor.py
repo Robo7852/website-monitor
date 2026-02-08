@@ -63,7 +63,7 @@ WEBSITES = [
     {
         'name': 'NTA UPDATES',
         'url': 'https://nta.ac.in/NoticeBoardArchive',
-        'selector': '.col-sm-12 li, .table table-bordered table-hover dataTable no-footer li, #tbl li',
+        'selector': '.table table-bordered table-hover dataTable no-footer li, #tbl li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
@@ -71,7 +71,7 @@ WEBSITES = [
     {
         'name': 'Finshot updates',
         'url': 'https://finshots.in/archive/',
-        'selector': '.post-feed li, .post-card-content li, .post-card-content-link li',
+        'selector': '#site-main li, .site-main outer',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
