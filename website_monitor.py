@@ -63,7 +63,7 @@ WEBSITES = [
     {
         'name': 'NTA UPDATES',
         'url': 'https://nta.ac.in/NoticeBoardArchive',
-        'selector': 'table tr',
+        'selector': '.col-sm-12 li, .table table-bordered table-hover dataTable no-footer li, #tbl li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
