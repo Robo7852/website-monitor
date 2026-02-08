@@ -23,7 +23,7 @@ WEBSITES = [
     {
         'name': 'Sarkari Result Notification',
         'url': 'https://www.sarkariresult.com/',
-        'selector': '#v-sarkariresult li, #post li',
+        'selector': '#v-sarkariresult li, #post li, .table-center li, #box2 li, #box1 li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
