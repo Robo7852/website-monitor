@@ -48,7 +48,7 @@ WEBSITES = [
     {
         'name': 'UGC NET UPDATES',
         'url': 'https://ugcnet.nta.nic.in/',
-        'selector': '.gen-list    no-border no-bg  padding-0 border-radius-none default-list li, #public-notices-content li, .wpb_wrapper li, .gen-list  medium-font  no-bg  padding-20 border-radius-medium default-list accent-border-color li',
+        'selector': '.vc_tta-panel-body li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
@@ -56,7 +56,7 @@ WEBSITES = [
     {
         'name': 'ALL INDIA BAR EXAMINATION',
         'url': 'https://www.allindiabarexamination.com/',
-        'selector': '.container li, .Notice text-left li',
+        'selector': '.container',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
@@ -64,7 +64,7 @@ WEBSITES = [
     {
         'name': 'NTA UPDATES',
         'url': 'https://nta.ac.in/NoticeBoardArchive',
-        'selector': '.table table-bordered table-hover dataTable no-footer li, #tbl li',
+        'selector': 'table tbody tr, marquee, .marquee',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
@@ -72,7 +72,7 @@ WEBSITES = [
     {
         'name': 'Finshot updates',
         'url': 'https://finshots.in/archive/',
-        'selector': '#site-main li, .site-main outer',
+        'selector': '.site-content',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
