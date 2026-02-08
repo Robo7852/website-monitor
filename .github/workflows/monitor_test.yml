@@ -1,0 +1,48 @@
+name: Website Monitor - TEST SSC
+
+on:
+  # Manual trigger only for testing
+  workflow_dispatch:
+
+jobs:
+  monitor-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+    
+    - name: Run TEST website monitor
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        python website_monitor_test.py
+    
+    - name: Show extracted items
+      run: |
+        echo "=== Items found and saved ==="
+        cat website_items.json || echo "No items file created"
+    
+    - name: Commit test results (optional)
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add website_items.json || true
+        git diff --quiet && git diff --staged --quiet || git commit -m "TEST: Update website items [automated]" || true
+    
+    - name: Push changes (optional)
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+      continue-on-error: true
