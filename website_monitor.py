@@ -2,6 +2,7 @@ import requests
 import hashlib
 import json
 import os
+import re
 from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -132,20 +133,48 @@ def extract_notifications(url, selector, link_selector, max_items=5):
                 elements = main_content.find_all('li')[:max_items]
         
         for elem in elements[:max_items]:
-            item = {}
-            
-            # Extract link and title
-            link_elem = elem.find('a') if link_selector == 'a' else elem.select_one(link_selector)
-            
-            if link_elem:
-                item['title'] = link_elem.get_text(strip=True)
-                href = link_elem.get('href', '')
-                # Make absolute URL
-                item['link'] = urljoin(url, href) if href else ''
-            else:
-                # No link found, just get text
-                item['title'] = elem.get_text(strip=True)
-                item['link'] = ''
+    item = {}
+    
+    # Get FULL text from the entire element (including text outside <a> tags)
+    full_text = elem.get_text(separator=' ', strip=True)
+    
+    # Extract link
+    link_elem = elem.find('a') if link_selector == 'a' else elem.select_one(link_selector)
+    
+    if link_elem:
+        href = link_elem.get('href', '')
+        # Make absolute URL
+        item['link'] = urljoin(url, href) if href else ''
+    else:
+        item['link'] = ''
+    
+    # Use full text as title (this includes everything in the <li>)
+    item['title'] = full_text
+```
+
+6. **Commit changes**
+
+---
+
+## 🧪 Test It
+
+1. **Go to Actions** → **Run workflow**
+2. **Check the logs** - you should now see FULL text in the items
+3. **Check your Telegram/Channel** - notifications will show complete details
+
+---
+
+## 📱 Example Output
+
+**Before:**
+```
+1. Notification
+```
+
+**After:**
+```
+1. Notification - Combined Defence Services Exam - Final Result (New) 05/02/2026
+   📅 05/02/2026
             
             # Try to extract date (common patterns)
             date_text = ''
