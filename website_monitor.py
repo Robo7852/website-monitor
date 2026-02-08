@@ -24,7 +24,23 @@ WEBSITES = [
     {
         'name': 'Sarkari Result Notification',
         'url': 'https://www.sarkariresult.com/',
-        'selector': '#v-sarkariresult li, #post li, .table-center li, #box2 li, #box1 li',
+        'selector': '.gb-container-0b76599a .wp-block-latest-posts__list li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'Sarkari Result Notification',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': '.gb-container-e64d3148 .wp-block-latest-posts__list li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'Sarkari Result Notification',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': '.gb-container-c7488d9a .wp-block-latest-posts__list li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
