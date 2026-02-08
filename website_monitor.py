@@ -156,26 +156,7 @@ def extract_notifications(url, selector, link_selector, max_items=5):
 
 ---
 
-## 🧪 Test It
 
-1. **Go to Actions** → **Run workflow**
-2. **Check the logs** - you should now see FULL text in the items
-3. **Check your Telegram/Channel** - notifications will show complete details
-
----
-
-## 📱 Example Output
-
-**Before:**
-```
-1. Notification
-```
-
-**After:**
-```
-1. Notification - Combined Defence Services Exam - Final Result (New) 05/02/2026
-   📅 05/02/2026
-            
             # Try to extract date (common patterns)
             date_text = ''
             # Look for date patterns in the element or nearby
