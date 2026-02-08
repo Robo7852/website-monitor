@@ -111,7 +111,7 @@ def save_items(items):
     with open(ITEMS_FILE, 'w', encoding='utf-8') as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
 
-def extract_notifications(url, selector, link_selector, max_items=5):
+def extract_notifications(url, selector, link_selector, max_items=10):
     """Extract notification items with titles, links, and dates"""
     try:
         headers = {
@@ -133,29 +133,33 @@ def extract_notifications(url, selector, link_selector, max_items=5):
                 elements = main_content.find_all('li')[:max_items]
         
         for elem in elements[:max_items]:
-    item = {}
-    
-    # Get FULL text from the entire element (including text outside <a> tags)
-    full_text = elem.get_text(separator=' ', strip=True)
-    
-    # Extract link
-    link_elem = elem.find('a') if link_selector == 'a' else elem.select_one(link_selector)
-    
-    if link_elem:
-        href = link_elem.get('href', '')
-        # Make absolute URL
-        item['link'] = urljoin(url, href) if href else ''
-    else:
-        item['link'] = ''
-    
-    # Use full text as title (this includes everything in the <li>)
-    item['title'] = full_text
-```
-
-6. **Commit changes**
-
----
-
+            item = {}
+            
+            # Get FULL text from the entire element (including text outside <a> tags)
+            full_text = elem.get_text(separator=' ', strip=True)
+            
+            # Extract link
+            link_elem = elem.find('a') if link_selector == 'a' else elem.select_one(link_selector)
+            
+            if link_elem:
+                href = link_elem.get('href', '')
+                # Make absolute URL
+                item['link'] = urljoin(url, href) if href else ''
+            else:
+                # No link found - check if entire element might be clickable
+                onclick = elem.get('onclick', '')
+                if onclick:
+                    # Try to extract URL from onclick attribute
+                    url_match = re.search(r'["\']([^"\']*\.pdf[^"\']*)["\'"]', onclick)
+                    if url_match:
+                        item['link'] = urljoin(url, url_match.group(1))
+                    else:
+                        item['link'] = ''
+                else:
+                    item['link'] = ''
+            
+            # Use full text as title (this includes everything in the element)
+            item['title'] = full_text
 
             # Try to extract date (common patterns)
             date_text = ''
