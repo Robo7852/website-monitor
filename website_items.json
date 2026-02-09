@@ -1,30 +1,5 @@
 {
-  "Sarkari Result Notification": [
-    {
-      "link": "https://www.sarkariresult.com/latestjob/",
-      "title": "Latest Jobs",
-      "date": "",
-      "id": "a526dc2c9a3e"
-    },
-    {
-      "link": "https://www.sarkariresult.com/result/",
-      "title": "Results",
-      "date": "",
-      "id": "03a6fd382474"
-    },
-    {
-      "link": "https://www.sarkariresult.com/admitcard/",
-      "title": "Admit Card",
-      "date": "",
-      "id": "affade554478"
-    },
-    {
-      "link": "https://www.sarkariresult.com/answerkey/",
-      "title": "Answer Key",
-      "date": "",
-      "id": "2fb8b44dac1c"
-    }
-  ],
+  "Sarkari Result Notification": [],
   "MPESB Latest Update": [],
   "UGC NET UPDATES": [
     {
