@@ -39,7 +39,7 @@ WEBSITES = [
         'link_selector': 'a',
         'max_items': 8
     },
-    },
+   
     {
         'name': 'MPESB Latest Update',
         'url': 'https://esb.mp.gov.in/e_default.html',
