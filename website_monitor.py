@@ -31,7 +31,6 @@ WEBSITES = [
         'max_items': 8
     },
     {
-        {
         'name': 'Sarkari Result - Results',
         'url': 'https://www.sarkariresult.com/',
         'selector': 'td[align="left"] div#post ul li',
