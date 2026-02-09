@@ -13,36 +13,23 @@ TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 
 # Website configurations - customize the CSS selectors for each site
 WEBSITES = [
-    {
-        'name': 'UPSC New Examinations',
-        'url': 'https://upsc.gov.in/examinations/active-exams/',
-        'selector': '.view view-exams view-id-exams view-display-id-page_1 view-dom-id-25e80baffe11ec329e64d7dcb13e7e00 li, .view-content li, .views-row views-row-1 views-row-odd views-row-first li, .views-row views-row-2 views-row-even li, .views-row views-row-3 views-row-odd li',
-        'type': 'list',  # Extract list items
-        'link_selector': 'a',  # How to find links within items
-        'max_items': 5  # Show top 5 latest items
-    },
+   
     {
         'name': 'Sarkari Result Notification',
         'url': 'https://sarkariresult.com.cm/',
         'selector': '.gb-container-0b76599a .wp-block-latest-posts__list li',
-        'type': 'list',
-        'link_selector': 'a',
         'max_items': 5
     },
     {
         'name': 'Sarkari Result Notification',
         'url': 'https://sarkariresult.com.cm/',
         'selector': '.gb-container-e64d3148 .wp-block-latest-posts__list li',
-        'type': 'list',
-        'link_selector': 'a',
         'max_items': 5
     },
     {
         'name': 'Sarkari Result Notification',
         'url': 'https://sarkariresult.com.cm/',
         'selector': '.gb-container-c7488d9a .wp-block-latest-posts__list li',
-        'type': 'list',
-        'link_selector': 'a',
         'max_items': 5
     },
     {
