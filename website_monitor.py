@@ -15,22 +15,30 @@ TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 WEBSITES = [
    
     {
-        'name': 'Sarkari Result Notification',
-        'url': 'https://sarkariresult.com.cm/',
-        'selector': '.gb-container-0b76599a .wp-block-latest-posts__list li',
-        'max_items': 5
+        'name': 'Sarkari Result - Latest Jobs',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': 'td[align="right"] div#post ul li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 8
     },
     {
-        'name': 'Sarkari Result Notification',
-        'url': 'https://sarkariresult.com.cm/',
-        'selector': '.gb-container-e64d3148 .wp-block-latest-posts__list li',
-        'max_items': 5
+        'name': 'Sarkari Result - Admit Cards',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': 'td[align="center"] div#post ul li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 8
     },
     {
-        'name': 'Sarkari Result Notification',
-        'url': 'https://sarkariresult.com.cm/',
-        'selector': '.gb-container-c7488d9a .wp-block-latest-posts__list li',
-        'max_items': 5
+        {
+        'name': 'Sarkari Result - Results',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': 'td[align="left"] div#post ul li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 8
+    },
     },
     {
         'name': 'MPESB Latest Update',
