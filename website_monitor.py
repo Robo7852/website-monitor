@@ -14,41 +14,97 @@ TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
 # Website configurations - customize the CSS selectors for each site
 WEBSITES = [
     {
-        'name': 'UPSC - What\'s New',
-        'url': 'https://www.upsc.gov.in/',
-        'selector': '.whats_new ul li, .whatsnew ul li, #whatsNew ul li, .latest-updates ul li',
+        'name': 'UPSC New Examinations',
+        'url': 'https://upsc.gov.in/examinations/active-exams/',
+        'selector': '.view view-exams view-id-exams view-display-id-page_1 view-dom-id-25e80baffe11ec329e64d7dcb13e7e00 li, .view-content li, .views-row views-row-1 views-row-odd views-row-first li, .views-row views-row-2 views-row-even li, .views-row views-row-3 views-row-odd li',
         'type': 'list',  # Extract list items
         'link_selector': 'a',  # How to find links within items
         'max_items': 5  # Show top 5 latest items
     },
     {
-        'name': 'UPSC - Notifications',
-        'url': 'https://www.upsc.gov.in/notifications',
-        'selector': '.notification-list li, .content ul li, main ul li',
+        'name': 'Sarkari Result Notification',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': '.gb-container-0b76599a .wp-block-latest-posts__list li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
     },
     {
-        'name': 'MPPEB - Latest Updates',
-        'url': 'https://peb.mp.gov.in/',
-        'selector': 'marquee, .marquee, .latest-news li, .whats-new li',
+        'name': 'Sarkari Result Notification',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': '.gb-container-e64d3148 .wp-block-latest-posts__list li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
     },
     {
-        'name': 'SSC - Latest News',
-        'url': 'https://ssc.nic.in/',
-        'selector': '.news ul li, .latest ul li, .whats-new ul li',
+        'name': 'Sarkari Result Notification',
+        'url': 'https://www.sarkariresult.com/',
+        'selector': '.gb-container-c7488d9a .wp-block-latest-posts__list li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
     },
     {
-        'name': 'Railway Recruitment Board',
-        'url': 'https://www.rrbcdg.gov.in/',
-        'selector': '.latest-news li, .marquee, .updates li',
+        'name': 'MPESB Latest Update',
+        'url': 'https://esb.mp.gov.in/e_default.html',
+        'selector': '.modal-content li, .modal li, #myModal li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'SSC - Latest Updates',
+        'url': 'https://ssc.gov.in/',
+        'selector': '.linkHead li,  .notice-board li, .card li, .innerCardHead li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'UGC NET UPDATES',
+        'url': 'https://ugcnet.nta.nic.in/',
+        'selector': '.vc_tta-panel-body li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'ALL INDIA BAR EXAMINATION',
+        'url': 'https://www.allindiabarexamination.com/',
+        'selector': '.container',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'NTA UPDATES',
+        'url': 'https://nta.ac.in/NoticeBoardArchive',
+        'selector': 'table tbody tr, marquee, .marquee',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'Finshot updates',
+        'url': 'https://finshots.in/archive/',
+        'selector': '.site-content',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'Vajiram Current Affairs',
+        'url': 'https://vajiramandravi.com/current-affairs/',
+        'selector': '.lcontainer li, .lcolumn li, .item li, .posts-grid li, .left-section li, .first-post li, .right-section li',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
+    {
+        'name': 'CTET UPDATES',
+        'url': 'https://ctet.nic.in/',
+        'selector': '.wpb_wrapper li, .vc_tta-container li, .vc_tta-panels-container li, .vc_tta-panel-body li',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
