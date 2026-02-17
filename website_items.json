@@ -1,6 +1,12 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/ssc/ssc-cpo-si-2025/",
+      "title": "SSC CPO SI 2025 Vacancy Details",
+      "date": "",
+      "id": "cbafba30db56"
+    },
+    {
       "link": "https://www.sarkariresult.com/bank/rbi-assistant-feb26/",
       "title": "RBI Assistant Online Form 2026",
       "date": "",
@@ -41,15 +47,15 @@
       "title": "Army NCC Special Entry 124 Course Online Form 2026",
       "date": "",
       "id": "423669fed9b2"
-    },
-    {
-      "link": "https://www.sarkariresult.com/bihar/bpsc-tre-4-2026/",
-      "title": "BPSC School Teacher TRE 4.0 OTR Registration 2026",
-      "date": "",
-      "id": "afe90d48437c"
     }
   ],
   "Sarkari Result - Admit Cards": [
+    {
+      "link": "https://www.sarkariresult.com/2024/uppsc-planning-dec24/",
+      "title": "UPPSC Architectural Cum Planning Assistant Mains Admit Card 2026",
+      "date": "",
+      "id": "456aeaea37f5"
+    },
     {
       "link": "https://www.sarkariresult.com/upsssc/upsssc-enforcement-04-2023/",
       "title": "UPSSSC Enforcement Constable 2023 PET Admit Card",
@@ -91,15 +97,15 @@
       "title": "Railway RRB NTPC Graduate CEN 06/2025 Exam Date",
       "date": "",
       "id": "14895712307c"
-    },
-    {
-      "link": "https://www.sarkariresult.com/cg/cgpsc-sse-2025/",
-      "title": "CGPSC Pre 2025 Admit Card",
-      "date": "",
-      "id": "9fd8c7b8b3a7"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/ssc/ssc-gd-constable-2024/",
+      "title": "SSC GD Constable Exam 2025 Marks",
+      "date": "",
+      "id": "7755b545b615"
+    },
     {
       "link": "https://www.sarkariresult.com/2026/nta-jeemain-session1/",
       "title": "NTA JEEMAIN Session I Result 2026 Declared",
@@ -141,12 +147,6 @@
       "title": "RSSB NHM Contractual Various Post Result 2026",
       "date": "",
       "id": "7db43e00e65d"
-    },
-    {
-      "link": "https://www.sarkariresult.com/rpsc/rssb-fourth-class-advt-19-2024/",
-      "title": "RSSB 4th Class Employee 2024 Revised Result with Cutoff",
-      "date": "",
-      "id": "24b20ccaa86b"
     }
   ],
   "MPESB Latest Update": [],
@@ -198,34 +198,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260217085519.pdf",
-      "title": "1 Final Answer Keys for CMAT – 2026 Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260217122911.pdf",
+      "title": "1 Display of Provisional Answer Keys and Recorded Response Sheet for Answer Key Challenge for NIFT Entrance Examination – NIFTEE – 2026 - Reg. Read More",
       "date": "",
-      "id": "125f436af658"
+      "id": "1986f7072078"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260217122854.pdf",
+      "title": "2 राष्ट्रीय फैशन प्रौद्योगिकी संस्थान प्रवेश परीक्षा (NIFTEE) – 2026 के लिए उत्तर कुंजी चुनौती हेतु अस्थायी उत्तर कुंजी और दर्ज प्रतिक्रियाओं की प्रदर्शनी के संबंध में Read More",
+      "date": "",
+      "id": "3c5805e80156"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260217085519.pdf",
+      "title": "3 Final Answer Keys for CMAT – 2026 Read More",
+      "date": "",
+      "id": "3ce2d2294df2"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260216182125.pdf",
-      "title": "2 Declaration of Joint Entrance Examination [JEE (Main) - 2026] Session 1 NTA Scores for Paper 1 (B.E. / B. Tech.) - reg. Read More",
+      "title": "4 Declaration of Joint Entrance Examination [JEE (Main) - 2026] Session 1 NTA Scores for Paper 1 (B.E. / B. Tech.) - reg. Read More",
       "date": "",
-      "id": "c2a3d7ee9a92"
+      "id": "cfc4b6340305"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260214150700.pdf",
-      "title": "3 Subject-wise Schedule of Common University Entrance Test [CUET (PG)] 2026 - reg. Read More",
+      "title": "5 Subject-wise Schedule of Common University Entrance Test [CUET (PG)] 2026 - reg. Read More",
       "date": "",
-      "id": "f2820a591466"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260212140446.PDF",
-      "title": "4 Inviting Online Applications for National Common Entrance Test (NCET) 2026 for admission to 4-Year Integrated Teacher Education Programme (ITEP)- Reg. Read More",
-      "date": "",
-      "id": "d92b57c38d38"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260211213054.pdf",
-      "title": "5 Release of Admit Card for National Institute of Fashion Technology Entrance Examination (NIFTEE) – 2026 – Reg. Read More",
-      "date": "",
-      "id": "8508da1f34d0"
+      "id": "d00658b2db4a"
     }
   ],
   "Finshot updates": [
