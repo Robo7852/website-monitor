@@ -1,6 +1,12 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/2026/india-post-gds-2026/",
+      "title": "India Post GDS Correction /Edit Form 2026",
+      "date": "",
+      "id": "7045e8a6e1b4"
+    },
+    {
       "link": "https://www.sarkariresult.com/hssc/hpsc-pgt-23-2026/",
       "title": "HPSC PGT Computer Science Online Form 2026",
       "date": "",
@@ -41,15 +47,15 @@
       "title": "AIIMS NORCET 10th Online Form 2026",
       "date": "",
       "id": "4622dee6f958"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/army-agniveer-2026/",
-      "title": "Indian Army Agniveer Rally Recruitment Online Form 2026",
-      "date": "",
-      "id": "94003d12b8d1"
     }
   ],
   "Sarkari Result - Admit Cards": [
+    {
+      "link": "https://www.sarkariresult.com/railway/rrb-junior-engineer-cen-05-2025/",
+      "title": "Railway RRB Junior Engineer CEN 05/2025 Admit Card",
+      "date": "",
+      "id": "610e53cbef24"
+    },
     {
       "link": "https://www.sarkariresult.com/ssc/ssc-gd-2025-exam-2026/",
       "title": "SSC GD Constable Exam Postponed 2026",
@@ -91,15 +97,21 @@
       "title": "Nabard Development Assistant Pre Admit Card 2026",
       "date": "",
       "id": "d545f67d04f0"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/nta-cuet-pg-2026/",
-      "title": "NTA CUET PG 2026 Exam Schedule",
-      "date": "",
-      "id": "f69f550e22c3"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/2025/uppsc-lt-grade-teacher-2025/",
+      "title": "UPPSC LT Grade Assistant Teacher Result 2026 Updated",
+      "date": "",
+      "id": "038ef548e464"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/nta-cmat-2026/",
+      "title": "NTA CMAT 2026 Result, Score Card",
+      "date": "",
+      "id": "4a85692d3c90"
+    },
     {
       "link": "https://www.sarkariresult.com/bank/nainital-bank-dec25/",
       "title": "Nainital Bank PO Final Result 2026",
@@ -135,18 +147,6 @@
       "title": "BPSC LDC 2025 Typing Test Result",
       "date": "",
       "id": "84553794ebcb"
-    },
-    {
-      "link": "https://www.sarkariresult.com/ssc/ssc-gd-constable-2024/",
-      "title": "SSC GD Constable Exam 2025 Marks",
-      "date": "",
-      "id": "7755b545b615"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/nta-jeemain-session1/",
-      "title": "NTA JEEMAIN Session I Result 2026 Declared",
-      "date": "",
-      "id": "e6b860ec9507"
     }
   ],
   "MPESB Latest Update": [],
