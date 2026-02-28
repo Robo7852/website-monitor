@@ -51,6 +51,18 @@
   ],
   "Sarkari Result - Admit Cards": [
     {
+      "link": "https://doc.sarkariresults.org.in/UPSSSC_Exam_Calendar_2026%20(1).pdf",
+      "title": "UPSSSC Exam Calendar 2026",
+      "date": "",
+      "id": "7be4b839327f"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2025/cbse-kvs-nvs-2025/",
+      "title": "CBSE KVS / NVS Teaching & Non Teaching Post Tier II Exam Date 2026",
+      "date": "",
+      "id": "aa2164c47268"
+    },
+    {
       "link": "https://www.sarkariresult.com/2026/ctet-feb-2026/",
       "title": "CTET February 2026 Re Exam Admit Card",
       "date": "",
@@ -85,21 +97,15 @@
       "title": "DFCCIL MTS PET Exam Admit Card 2026",
       "date": "",
       "id": "598a9422181d"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/uppsc-computer-assistant-25/",
-      "title": "UPPSC Computer Assistant Typing Test Font Notice",
-      "date": "",
-      "id": "d76ade0a4baa"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2024/up-police-si-asi-jan24/",
-      "title": "UP Police SI / ASI 2023 Steno Test Admit Card 2026",
-      "date": "",
-      "id": "8c632ae90fdf"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/2025/cbse-kvs-nvs-2025/",
+      "title": "CBSE KVS / NVS Teaching & Non Teaching Post Result 2026",
+      "date": "",
+      "id": "df4d6938df9a"
+    },
     {
       "link": "https://www.sarkariresult.com/ssc/ssc-chsl-2025/",
       "title": "SSC 10+2 CHSL Tier I Result 2026",
@@ -141,12 +147,6 @@
       "title": "UPSC Engineering Services Pre Result 2026",
       "date": "",
       "id": "e82a6a66e4b4"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2021/up-btc-deled-result/",
-      "title": "UP BTC DELED 2018,2021,2023 First and Third Semester Result",
-      "date": "",
-      "id": "3585d0674f7f"
     }
   ],
   "MPESB Latest Update": [],
