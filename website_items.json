@@ -51,6 +51,12 @@
   ],
   "Sarkari Result - Admit Cards": [
     {
+      "link": "https://www.sarkariresult.com/bank/sbi-cbo-jan26/",
+      "title": "SBI Circle Based Officer CBO Admit Card 2026",
+      "date": "",
+      "id": "e17fb4137614"
+    },
+    {
       "link": "https://www.sarkariresult.com/railway/rrb-alp-cen-01-2025/",
       "title": "RRB ALP CEN 01/2025 Re Scheduled Candidate Exam City 2026",
       "date": "",
@@ -91,15 +97,21 @@
       "title": "BPSC AEDO 2025 Exam Schedule",
       "date": "",
       "id": "8feba5d00263"
-    },
-    {
-      "link": "https://doc.sarkariresults.org.in/UPSSSC_Exam_Calendar_2026%20(1).pdf",
-      "title": "UPSSSC Exam Calendar 2026",
-      "date": "",
-      "id": "7be4b839327f"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/upsc/upsc-ias-ifs-2025/",
+      "title": "UPSC Civil Services IAS 2025 Final Result",
+      "date": "",
+      "id": "5401ab50abc3"
+    },
+    {
+      "link": "https://www.sarkariresult.com/ssc/ssc-junior-engineer-je-2025/",
+      "title": "SSC Junior Engineer JE 2025 Paper I Result",
+      "date": "",
+      "id": "2e252f00a9d2"
+    },
     {
       "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/94319/Index.html",
       "title": "MHA IB ACIO 2025 Tier II Result",
@@ -135,18 +147,6 @@
       "title": "SSC 10+2 CHSL Tier I Result 2026",
       "date": "",
       "id": "43787643264a"
-    },
-    {
-      "link": "https://www.sarkariresult.com/mp/mp-primary-teacher-pstst-2025/",
-      "title": "MPESB MP Primary Teacher PSTST Result 2026",
-      "date": "",
-      "id": "6e28e49bcaec"
-    },
-    {
-      "link": "https://cnr.nic.in/Results26/AISSEE/Login",
-      "title": "NTA AISSEE Result / Score Card 2026",
-      "date": "",
-      "id": "73aae9010ef5"
     }
   ],
   "MPESB Latest Update": [],
