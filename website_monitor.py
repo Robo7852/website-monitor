@@ -82,7 +82,7 @@ WEBSITES = [
    {
         'name': 'FMS UPDATES',
         'url': 'https://www.fms.edu/important-links',
-        'selector': '.news-container, ',
+        'selector': '.news-container',
         'type': 'list',
         'link_selector': 'a',
         'max_items': 5
