@@ -51,16 +51,40 @@
   ],
   "Sarkari Result - Admit Cards": [
     {
-      "link": "https://www.sarkariresult.com/bank/rbi-non-csg-feb26/",
-      "title": "RBI Non CSG Various Post Admit Card 2026",
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-je-08-exam-2024/",
+      "title": "UPSSSC Junior Engineer JE Civil 2024 Exam Date",
       "date": "",
-      "id": "a13adb71181c"
+      "id": "e8a5e604645f"
+    },
+    {
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-lekhpal-02-exam-2025/",
+      "title": "UPSSSC Lekhpal Exam Date 2026",
+      "date": "",
+      "id": "5804d55f2d38"
+    },
+    {
+      "link": "https://www.sarkariresult.com/railway/rrb-ntpc-graduate-06-2025/",
+      "title": "RRB NTPC Graduate Level CEN 06/2025 Exam City Details",
+      "date": "",
+      "id": "76b74e84f128"
     },
     {
       "link": "https://www.sarkariresult.com/2025/up-police-si-03-2025/",
       "title": "UP Police Sub Inspector SI Exam City Details 2026",
       "date": "",
       "id": "533f87861829"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2025/cbse-group-abc-2025/",
+      "title": "CBSE Group A, B, C Various Post Tier II Exam Date 2026",
+      "date": "",
+      "id": "148f49913b17"
+    },
+    {
+      "link": "https://www.sarkariresult.com/bank/rbi-non-csg-feb26/",
+      "title": "RBI Non CSG Various Post Admit Card 2026",
+      "date": "",
+      "id": "a13adb71181c"
     },
     {
       "link": "https://www.sarkariresult.com/railway/rrb-technician-cen-02-2025/",
@@ -73,30 +97,6 @@
       "title": "Bihar Civil Court Peon Admit Card 2026",
       "date": "",
       "id": "7bae0975b913"
-    },
-    {
-      "link": "https://www.sarkariresult.com/bank/sbi-cbo-jan26/",
-      "title": "SBI Circle Based Officer CBO Admit Card 2026",
-      "date": "",
-      "id": "e17fb4137614"
-    },
-    {
-      "link": "https://www.sarkariresult.com/railway/rrb-alp-cen-01-2025/",
-      "title": "RRB ALP CEN 01/2025 Re Scheduled Candidate Exam City 2026",
-      "date": "",
-      "id": "a7e9799d7ba1"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/drdo-ceptam-11/",
-      "title": "DRDO CEPTAM 11 Tier I Exam Date",
-      "date": "",
-      "id": "91087c3c6172"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/nta-cuet-pg-2026/",
-      "title": "NTA CUET PG 2026 Admit Card",
-      "date": "",
-      "id": "40878a18acf2"
     }
   ],
   "Sarkari Result - Results": [
@@ -228,6 +228,7 @@
       "id": "300792c73bd0"
     }
   ],
+  "FMS UPDATES": [],
   "Finshot updates": [
     {
       "link": "https://finshots.in/archive/the-unnati-foundation-ipo-nse-ix-and-more-2/",
