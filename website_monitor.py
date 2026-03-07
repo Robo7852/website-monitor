@@ -79,6 +79,14 @@ WEBSITES = [
         'link_selector': 'a',
         'max_items': 5
     },
+   {
+        'name': 'FMS UPDATES',
+        'url': 'https://www.fms.edu/important-links',
+        'selector': '.news-container, ',
+        'type': 'list',
+        'link_selector': 'a',
+        'max_items': 5
+    },
     {
         'name': 'Finshot updates',
         'url': 'https://finshots.in/archive/',
