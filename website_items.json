@@ -198,34 +198,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260312130354.pdf",
-      "title": "1 Re-opening of Online Application Portal-Joint Entrance Examination (Main) 2026 Session-2- reg. Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260312153230.pdf",
+      "title": "1 Correction in the particulars of the online Application Form of National Common Entrance Test (NCET) 2026 - reg. Read More",
       "date": "",
-      "id": "ad2be13d55a9"
+      "id": "145dbceb62a7"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260312130354.pdf",
+      "title": "2 Re-opening of Online Application Portal-Joint Entrance Examination (Main) 2026 Session-2- reg. Read More",
+      "date": "",
+      "id": "05046c23fe9b"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260312121956.PDF",
-      "title": "2 Advance Intimation for Allotment of Examination City of CUET (PG)-2026 examination, to the Applicants scheduled to appear on 16, 17, 18, 19, 24, 25 & 27 March 2026 Read More",
+      "title": "3 Advance Intimation for Allotment of Examination City of CUET (PG)-2026 examination, to the Applicants scheduled to appear on 16, 17, 18, 19, 24, 25 & 27 March 2026 Read More",
       "date": "",
-      "id": "38922dabd5bf"
+      "id": "99469c75debe"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260311164514.pdf",
-      "title": "3 Correction in Particulars for the National Eligibility-cum-Entrance Test [(NEET (UG)] 2026 - Reg. Read More",
+      "title": "4 Correction in Particulars for the National Eligibility-cum-Entrance Test [(NEET (UG)] 2026 - Reg. Read More",
       "date": "",
-      "id": "506bb32b06f1"
+      "id": "3655e820aa14"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260311161322.pdf",
-      "title": "4 Inviting Online Application Form for National Teachers Eligibility Test (NTET)-2026 Examination-reg. Read More",
+      "title": "5 Inviting Online Application Form for National Teachers Eligibility Test (NTET)-2026 Examination-reg. Read More",
       "date": "",
-      "id": "953bb5d4c5e6"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260308191448.pdf",
-      "title": "5 Extension of last date for filling of Online Application Form for NEET (UG) - 2026 Read More",
-      "date": "",
-      "id": "eccd577df8ed"
+      "id": "50185dfbe3a3"
     }
   ],
   "FMS UPDATES": [],
@@ -239,6 +239,12 @@
   ],
   "Vajiram Current Affairs": [],
   "CTET UPDATES": [
+    {
+      "link": "https://ctet.nic.in/ctet-feb-2026-key-challenge-scanned-images-of-omr/",
+      "title": "CTET Feb-2026 Key Challenge / Scanned Images of OMR",
+      "date": "",
+      "id": "669e2696b5a6"
+    },
     {
       "link": "https://ctet.nic.in/admit-card-ctet-feb-2026/",
       "title": "Admit Card: CTET Feb-2026",
@@ -262,12 +268,6 @@
       "title": "Public Notices",
       "date": "",
       "id": "869cf224268c"
-    },
-    {
-      "link": "https://ctet.nic.in/#1648443930839-ad09422b-9ead",
-      "title": "News & Events",
-      "date": "",
-      "id": "5ebf6ce53795"
     }
   ]
 }
