@@ -1,6 +1,18 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-aso-05-exam-2026/",
+      "title": "UPSSSC Assistant Statistical Officer ASO Online Form 2026",
+      "date": "",
+      "id": "6f88cbf05b91"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/uptet-2026/",
+      "title": "UPTET 2026 Online Form",
+      "date": "",
+      "id": "7be2bb81ab25"
+    },
+    {
       "link": "https://www.sarkariresult.com/bihar/bpsc-civil-judge-33-exam-2026/",
       "title": "BPSC 33 Civil Judge PCS J Online Form 2026 Extended",
       "date": "",
@@ -35,21 +47,21 @@
       "title": "MPESB Group 5 Various Post Online Form 2026",
       "date": "",
       "id": "50afb0a3e0d9"
-    },
-    {
-      "link": "https://www.sarkariresult.com/upsssc/upsssc-asst-boring-tech-04-2026/",
-      "title": "UPSSSC Assistant Boring Technician Online Form 2026",
-      "date": "",
-      "id": "8ec951f379d5"
-    },
-    {
-      "link": "https://www.sarkariresult.com/railway/rrb-alp-cen-01-2026/",
-      "title": "Railway RRB Assistant Loco Pilot ALP CEN 01/2026 Online Form",
-      "date": "",
-      "id": "8aa9b7bc7c28"
     }
   ],
   "Sarkari Result - Admit Cards": [
+    {
+      "link": "https://www.sarkariresult.com/2025/uppsc-pre-2025/",
+      "title": "UPPSC Mains 2025 Admit Card",
+      "date": "",
+      "id": "97e5c454fb54"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2025/drdo-ceptam-11/",
+      "title": "DRDO CEPTAM 11 Admit Card 2026",
+      "date": "",
+      "id": "5e7ccafd34fd"
+    },
     {
       "link": "https://www.sarkariresult.com/rpsc/rpsc-ae-advt-10-2024/",
       "title": "RPSC Assistant Engineer AE 2024 Main Admit Card",
@@ -85,21 +97,15 @@
       "title": "NVS Class 6th Winter Bound Admit Card 2026",
       "date": "",
       "id": "45309fec888d"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/drdo-ceptam-11/",
-      "title": "DRDO CEPTAM 11 Exam City Details 2026",
-      "date": "",
-      "id": "f5f72ed5017e"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2023/up-police-constable-sports/",
-      "title": "UP Police Constable Sports Quota 2023 DV / Sports Trial Admit Card",
-      "date": "",
-      "id": "78854061f30d"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/2026/nta-nift-2026/",
+      "title": "NTA NIFTEE 2026 Result",
+      "date": "",
+      "id": "393ee819b76b"
+    },
     {
       "link": "https://www.sarkariresult.com/upload/SCI_Court_Master_Result_19Mar26.pdf",
       "title": "SCI Court Master 2025 Result",
@@ -141,12 +147,6 @@
       "title": "NVS Class 6th Entrance Exam Summer Bound Result 2026",
       "date": "",
       "id": "a511acebb58e"
-    },
-    {
-      "link": "https://www.sarkariresult.com/upload/BPSSC_SI_Result_2025.pdf",
-      "title": "Bihar Police BPSSC Sub Inspector SI 2025 Pre Result",
-      "date": "",
-      "id": "0419c3f2ab5a"
     }
   ],
   "MPESB Latest Update": [],
