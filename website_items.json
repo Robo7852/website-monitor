@@ -1,6 +1,18 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-technical-06-exam-2026/",
+      "title": "UPSSSC Technical Assistant Group C Online Form 2026",
+      "date": "",
+      "id": "85571ee0d1b1"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/upcisb-various-post-mar26/",
+      "title": "UPCISB UP Cooperative Bank Various Post Online Form 2026",
+      "date": "",
+      "id": "6376de2b55e7"
+    },
+    {
       "link": "https://www.sarkariresult.com/2026/upsrtc-female-conductor/",
       "title": "UPSRTC Female Bus Conductor Recruitment 2026",
       "date": "",
@@ -35,18 +47,6 @@
       "title": "UPPSC GIC Lecturer Edit / Modify Form 2026",
       "date": "",
       "id": "f1e1acfc32df"
-    },
-    {
-      "link": "https://www.sarkariresult.com/hssc/hssc-steno-03-2026/",
-      "title": "Haryana HSSC Stenographer Online Form 2026 Re Open",
-      "date": "",
-      "id": "4f2eb577921c"
-    },
-    {
-      "link": "https://www.sarkariresult.com/hssc/hssc-constable-01-2026/",
-      "title": "Haryana HSSC Constable Online Form 2026 Re Open",
-      "date": "",
-      "id": "f93161c283e6"
     }
   ],
   "Sarkari Result - Admit Cards": [
@@ -102,9 +102,15 @@
   "Sarkari Result - Results": [
     {
       "link": "https://www.sarkariresult.com/2026/rbse-10th-result/",
-      "title": "Rajasthan Board RBSE Class 10th Result 2026",
+      "title": "Rajasthan Board RBSE Class 10th Result 2026 Declared",
       "date": "",
-      "id": "993fbb19d057"
+      "id": "f65c38696ccb"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/rbse-5th-8th-result/",
+      "title": "Rajasthan Class 5th, 8th Result 2026 Declared",
+      "date": "",
+      "id": "2435766ac94d"
     },
     {
       "link": "https://www.sarkariresult.com/delhi/dsssb-latest-result/",
@@ -141,12 +147,6 @@
       "title": "SCI Court Master 2025 Result",
       "date": "",
       "id": "cfe0b59e1e9e"
-    },
-    {
-      "link": "https://www.sarkariresult.com/ssc/ssc-chsl-2025/",
-      "title": "SSC 10+2 CHSL 2025 Tier I Marks / Score Card",
-      "date": "",
-      "id": "63cc8ceabadb"
     }
   ],
   "MPESB Latest Update": [],
