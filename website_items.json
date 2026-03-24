@@ -51,6 +51,18 @@
   ],
   "Sarkari Result - Admit Cards": [
     {
+      "link": "https://www.sarkariresult.com/force/airforce-medical-01-2027/",
+      "title": "Indian Airforce Airmen Medical Assistant Intake 01/2027 Exam City Details",
+      "date": "",
+      "id": "c0255dbb4a6c"
+    },
+    {
+      "link": "https://www.sarkariresult.com/force/airforce-agniveer-01-2027/",
+      "title": "Indian Airforce Agniveer Intake 01/2027 Exam City Details",
+      "date": "",
+      "id": "a1f58a845bf6"
+    },
+    {
       "link": "https://www.sarkariresult.com/ssc/ssc-dp-hc-awo-tpo-jul22/",
       "title": "SSC Delhi Police Head Constable AWO / TPO 2022 DME Exam Schedule",
       "date": "",
@@ -85,21 +97,15 @@
       "title": "UPSC Forest Services IFS 2025 Interview Schedule",
       "date": "",
       "id": "895fd1dc4274"
-    },
-    {
-      "link": "https://www.sarkariresult.com/ssc/ssc-junior-engineer-je-2025/",
-      "title": "SSC Junior Engineer JE 2025 Paper II Exam City Details",
-      "date": "",
-      "id": "a2b94d00657a"
-    },
-    {
-      "link": "https://www.sarkariresult.com/ssc/ssc-chsl-2025/",
-      "title": "SSC CHSL 2025 Tier II Exam City Details",
-      "date": "",
-      "id": "1350caca88f1"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/2026/rbse-10th-result/",
+      "title": "Rajasthan Board RBSE Class 10th Result 2026",
+      "date": "",
+      "id": "993fbb19d057"
+    },
     {
       "link": "https://www.sarkariresult.com/delhi/dsssb-latest-result/",
       "title": "Delhi DSSSB PGT History 2023 Result",
@@ -141,12 +147,6 @@
       "title": "SSC 10+2 CHSL 2025 Tier I Marks / Score Card",
       "date": "",
       "id": "63cc8ceabadb"
-    },
-    {
-      "link": "https://joaps.iitb.ac.in/login",
-      "title": "IIT JAM 2026 Result / Score Card",
-      "date": "",
-      "id": "0b84cf592602"
     }
   ],
   "MPESB Latest Update": [],
