@@ -1,6 +1,12 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/force/itbp-constable-barber-washer-mar26/",
+      "title": "ITBP Constable Barber, Washerman Online Form 2026",
+      "date": "",
+      "id": "e4e688da7e6b"
+    },
+    {
       "link": "https://www.sarkariresult.com/2026/jac-jhtet-2026/",
       "title": "Jharkhand Teacher Eligibility Test JHTET Online Form 2026",
       "date": "",
@@ -41,15 +47,15 @@
       "title": "SSB Constable, HC, ASI, SI Online Form 2026",
       "date": "",
       "id": "bfa161dd2e55"
-    },
-    {
-      "link": "https://www.sarkariresult.com/upsssc/upsssc-aso-05-exam-2026/",
-      "title": "UPSSSC Assistant Statistical Officer ASO Online Form 2026",
-      "date": "",
-      "id": "6f88cbf05b91"
     }
   ],
   "Sarkari Result - Admit Cards": [
+    {
+      "link": "https://www.sarkariresult.com/2025/uppsc-principal-apr25/",
+      "title": "UPPSC Technical Education Principal 2025 Admit Card",
+      "date": "",
+      "id": "f123bdcbe495"
+    },
     {
       "link": "https://www.sarkariresult.com/jharkhand/jpsc-pre-01-2026/",
       "title": "JPSC Pre 2026 New Exam Date",
@@ -91,15 +97,39 @@
       "title": "Indian Airforce Airmen Medical Assistant Intake 01/2027 Exam City Details",
       "date": "",
       "id": "c0255dbb4a6c"
-    },
-    {
-      "link": "https://www.sarkariresult.com/force/airforce-agniveer-01-2027/",
-      "title": "Indian Airforce Agniveer Intake 01/2027 Exam City Details",
-      "date": "",
-      "id": "a1f58a845bf6"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/bank/nabard-da-jan26/",
+      "title": "NABARD Development Assistant Pre Result 2026",
+      "date": "",
+      "id": "c1044cf69762"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/rbse-12th-result-2026/",
+      "title": "Rajasthan Board RBSE Class 12th Result 2026",
+      "date": "",
+      "id": "939d2d2bf491"
+    },
+    {
+      "link": "https://www.sarkariresult.com/upsc/upsc-cds-ii-2025/",
+      "title": "UPSC CDS II 2025 Final Result",
+      "date": "",
+      "id": "c8bf66452f97"
+    },
+    {
+      "link": "https://www.sarkariresult.com/ssc/ssc-cpo-si-2025/",
+      "title": "SSC CPO SI 2025 Paper I Result",
+      "date": "",
+      "id": "2309c887779e"
+    },
+    {
+      "link": "https://www.sarkariresult.com/bihar/phc-mazdoor-feb25/",
+      "title": "Patna High Court Mazdoor 2025 Score Card",
+      "date": "",
+      "id": "8d494a39bccd"
+    },
     {
       "link": "https://www.sarkariresult.com/2024/uppsc-pre-2024/",
       "title": "UPPSC 2024 Final Result",
@@ -117,36 +147,6 @@
       "title": "Bihar Board 10th Result 2026 Server II",
       "date": "",
       "id": "56da03d20c00"
-    },
-    {
-      "link": "https://www.sarkariresult.com/ssc/ssc-delhi-police-constable-2023/",
-      "title": "SSC Delhi Police Constable 2023 Reserve Panel List",
-      "date": "",
-      "id": "bc4b298ec913"
-    },
-    {
-      "link": "https://www.sarkariresult.com/bank/pnb-apprentice-feb26/",
-      "title": "Punjab National Bank PNB Apprentice Result 2026",
-      "date": "",
-      "id": "dcadefe1378a"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2024/up-police-si-asi-jan24/",
-      "title": "UP Police SI / ASI 2023 Final Result",
-      "date": "",
-      "id": "1a75f846a290"
-    },
-    {
-      "link": "https://www.sarkariresult.com/cg/cgpsc-sse-2025/",
-      "title": "CGPSC SSE Pre 2025 Result",
-      "date": "",
-      "id": "b2ec57afc509"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/mp-class6-8-result/",
-      "title": "MP Class 5th, Class 8th Result 2026",
-      "date": "",
-      "id": "3f0a7cc21e0f"
     }
   ],
   "MPESB Latest Update": [],
@@ -240,12 +240,6 @@
   "Vajiram Current Affairs": [],
   "CTET UPDATES": [
     {
-      "link": "https://ctet.nic.in/ctet-feb-2026-key-challenge-scanned-images-of-omr/",
-      "title": "Apply for CTET Feb-2026 Key Challenge/Download Scanned Images of OMR (last Date 15/03/2026,up-to 11:59 PM)",
-      "date": "15/03/2026",
-      "id": "4455d86a3e41"
-    },
-    {
       "link": "https://ctet.nic.in/#1648443930838-0a3954ed-4757",
       "title": "Public Notices",
       "date": "",
@@ -268,6 +262,12 @@
       "title": "re-exam PUBLIC NOTICE: Dated 24/02/2026",
       "date": "24/02/2026",
       "id": "778fe151efb2"
+    },
+    {
+      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/02/202602052026341619.pdf",
+      "title": "PUBLIC NOTICE: PwD, Scribe etc. Dated 04.02.2026",
+      "date": "",
+      "id": "83a8e9c3bfc5"
     }
   ]
 }
