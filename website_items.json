@@ -240,6 +240,12 @@
   "Vajiram Current Affairs": [],
   "CTET UPDATES": [
     {
+      "link": "https://ctet.nic.in/public-notice-ctet-feb-2026-calculation-sheet-scanned-images-of-omr-last-date-01-05-2026/",
+      "title": "Public Notice: CTET Feb-2026 Calculation Sheet / Scanned Images of OMR (last Date 01-05-2026)",
+      "date": "01-05-2026",
+      "id": "a5b4c61f87f7"
+    },
+    {
       "link": "https://ctet.nic.in/ctet-feb2026-result/",
       "title": "CTET FEB2026 Result",
       "date": "",
@@ -258,16 +264,10 @@
       "id": "5ebf6ce53795"
     },
     {
-      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/03/202603311458590440.pdf",
-      "title": "PUBLIC NOTICE – CTET Feb 2026 – RESULT",
+      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/04/202604011187448306.pdf",
+      "title": "Public Notice: Calculation Sheet / Copy of OMR",
       "date": "",
-      "id": "0ecf12c5226f"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/03/202603121086699841.pdf",
-      "title": "Public Notice: CTET Feb-2026 Key Challenge / Scanned Images of OMR (last Date 15/03/2026,up-to 11:59 PM)",
-      "date": "15/03/2026",
-      "id": "46c6f81216c8"
+      "id": "0f1ad557ec26"
     }
   ]
 }
