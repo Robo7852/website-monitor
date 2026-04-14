@@ -1,6 +1,18 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/bihar/btsc-instructor-apr26/",
+      "title": "Bihar BTSC Instructor Online Form 2026",
+      "date": "",
+      "id": "8de651dd330a"
+    },
+    {
+      "link": "https://www.sarkariresult.com/ssc/ssc-selection-post-14th-2026/",
+      "title": "SSC Selection Post 14th Online Form 2026",
+      "date": "",
+      "id": "f45ea10b90ed"
+    },
+    {
       "link": "https://www.sarkariresult.com/2026/chandigarh-clerk-steno-apr26/",
       "title": "Chandigarh Clerk, Steno Online Form 2026",
       "date": "",
@@ -35,21 +47,21 @@
       "title": "ICSIL DEO, MTS Online Form 2026",
       "date": "",
       "id": "326464ec86ea"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/npcil-et-2026/",
-      "title": "NPCIL Executive Trainee ET Online Form 2026",
-      "date": "",
-      "id": "2ea9e47d379b"
-    },
-    {
-      "link": "https://www.sarkariresult.com/force/army-ssc-rvc-apr26/",
-      "title": "Army SSC RVC Veterinary Graduates Online Form 2026",
-      "date": "",
-      "id": "487b06f9384e"
     }
   ],
   "Sarkari Result - Admit Cards": [
+    {
+      "link": "https://www.sarkariresult.com/2026/nta-ncet-2026/",
+      "title": "NTA NCET 2026 Admit Card",
+      "date": "",
+      "id": "d1f6e2d90d85"
+    },
+    {
+      "link": "https://www.sarkariresult.com/railway/rrb-ntpc-ug-07-2025/",
+      "title": "Railway RRB NTPC UG CEN 07/2025 Exam Date",
+      "date": "",
+      "id": "97e9abf08be8"
+    },
     {
       "link": "https://www.sarkariresult.com/2026/nta-neet-ug-2026/",
       "title": "NTA NEET UG 2026 Exam City",
@@ -85,21 +97,27 @@
       "title": "SSC CHSL 2025 Re Schedule Exam Notice",
       "date": "",
       "id": "183d998798c7"
-    },
-    {
-      "link": "https://www.sarkariresult.com/mp/mpesb-group5-mar26/",
-      "title": "MPESB Group 5 Staff Nurse & Other Post Admit Card 2026",
-      "date": "",
-      "id": "38044d77efea"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2023/up-police-constable-sports/",
-      "title": "UP Police Constable Sports 2023 Football DV / Sport Trial Admit Card",
-      "date": "",
-      "id": "c42ba5390f42"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/2026/mpbse-mp-result-2026/",
+      "title": "MP Board Class 12th Result 2026",
+      "date": "",
+      "id": "5b2fd99062dd"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/mpbse-mp-result-2026/",
+      "title": "MP Board Class 10th Result 2026",
+      "date": "",
+      "id": "9432e92c8047"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2025/mha-ib-mts-25/",
+      "title": "MHA IB MTS 2025 Tier I Result",
+      "date": "",
+      "id": "7b37ebbee6fb"
+    },
     {
       "link": "https://www.sarkariresult.com/2026/india-post-gds-2026/",
       "title": "India Post GDS 2026 Second Merit List / Result",
@@ -129,24 +147,6 @@
       "title": "KVS Class 1 Lottery Result 2026",
       "date": "",
       "id": "23aceea56bf8"
-    },
-    {
-      "link": "https://www.sarkariresult.com/upsc/upsc-nda-ii-2025/",
-      "title": "UPSC NDA II 2025 Final Result",
-      "date": "",
-      "id": "58a22cbd36ab"
-    },
-    {
-      "link": "https://www.sarkariresult.com/ssc/ssc-cgl-2025/",
-      "title": "SSC CGL 2025 Final Result",
-      "date": "",
-      "id": "b4941176c73c"
-    },
-    {
-      "link": "https://www.sarkariresult.com/upsssc/upsssc-lekhpal-01-2022/",
-      "title": "UPSSSC Rajasva Lekhpal 2022 New Result",
-      "date": "",
-      "id": "980eb1b67440"
     }
   ],
   "MPESB Latest Update": [],
