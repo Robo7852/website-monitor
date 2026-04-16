@@ -51,6 +51,12 @@
   ],
   "Sarkari Result - Admit Cards": [
     {
+      "link": "https://cdn.digialm.com/EForms/configuredHtml/1258/97756/login.html",
+      "title": "NCL Assistant Foreman Admit Card 2026",
+      "date": "",
+      "id": "d4783ebdb44c"
+    },
+    {
       "link": "https://www.sarkariresult.com/mp/mppsc-pre-2026/",
       "title": "MPPSC State Service Exam SSE Admit Card 2026",
       "date": "",
@@ -91,15 +97,21 @@
       "title": "BPSC 71th Mains Admit Card 2026",
       "date": "",
       "id": "100cf9bc42d7"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/cbse-group-abc-2025/",
-      "title": "CBSE Group A B C Tier II Admit Card",
-      "date": "",
-      "id": "a0b7c0b86512"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/hssc/hssc-cet-group-c-01-2025/",
+      "title": "HSSC CET Group C Result 2026",
+      "date": "",
+      "id": "7465187308ab"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/aiims-norcet-10th/",
+      "title": "AIIMS Nursing Officer NORCET 10th Result 2026",
+      "date": "",
+      "id": "fcb4347e5a31"
+    },
     {
       "link": "https://www.sarkariresult.com/upsc/upsc-nda-ii-2025/",
       "title": "UPSC NDA II 2025 Marks",
@@ -135,18 +147,6 @@
       "title": "MHA IB MTS 2025 Tier I Result",
       "date": "",
       "id": "7b37ebbee6fb"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/india-post-gds-2026/",
-      "title": "India Post GDS 2026 Second Merit List / Result",
-      "date": "",
-      "id": "aec0ac7dc42d"
-    },
-    {
-      "link": "https://www.sarkariresult.com/bank/lic-aao-ae-2025/",
-      "title": "LIC AAO, AE Final Result 2026",
-      "date": "",
-      "id": "5e1fc1f8ceb7"
     }
   ],
   "MPESB Latest Update": [],
