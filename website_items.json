@@ -51,6 +51,12 @@
   ],
   "Sarkari Result - Admit Cards": [
     {
+      "link": "https://www.sarkariresult.com/force/navy-ssr-medical-inet-02-2027/",
+      "title": "Navy SSR Medical Exam City Details 2026",
+      "date": "",
+      "id": "ffa6a13bc992"
+    },
+    {
       "link": "https://doc.sarkariresults.org.in/BSSC_Office_Attendant_02_2022_ExamDate_.pdf",
       "title": "BSSC Office Attendant 2022 Exam Date",
       "date": "",
@@ -64,9 +70,9 @@
     },
     {
       "link": "https://www.sarkariresult.com/force/navy-ssr-mr-inet-2026/",
-      "title": "Navy SSR / MR INET Exam Date 2026",
+      "title": "Navy SSR / MR INET Exam City Details 2026",
       "date": "",
-      "id": "3b97039d77a7"
+      "id": "b310a163ff10"
     },
     {
       "link": "https://www.sarkariresult.com/2022/up-pgt-02-2022/",
@@ -91,15 +97,33 @@
       "title": "Railway RRB NTPC UG CEN 07/2025 Exam City Details",
       "date": "",
       "id": "d84e47d0547c"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/nta-neet-ug-2026/",
-      "title": "NTA NEET UG 2026 Exam Admit Card",
-      "date": "",
-      "id": "cc60dcdfa56a"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/2025/uppsc-apo/",
+      "title": "UPPSC APO 2025 Pre Result",
+      "date": "",
+      "id": "11801d0d2cdd"
+    },
+    {
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-sachiv-06-exam-2024/",
+      "title": "UPSSSC Sachiv Grade II 2024 Final Result",
+      "date": "",
+      "id": "cf4aacf906f1"
+    },
+    {
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-forest-10-2023/",
+      "title": "UPSSSC Forest Guard 2023 PET Result",
+      "date": "",
+      "id": "835dcb8c31fc"
+    },
+    {
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-enforcement-04-2023/",
+      "title": "UPSSSC Enforcement Constable 2023 PET Result",
+      "date": "",
+      "id": "e46509a3c45e"
+    },
     {
       "link": "https://www.sarkariresult.com/2026/cisce-result-2026/",
       "title": "CISCE Board Class 10th, 12th Result 2026",
@@ -123,30 +147,6 @@
       "title": "UPPSC Assistant Registrar 2024 Final Result",
       "date": "",
       "id": "8b1c78e873ad"
-    },
-    {
-      "link": "https://www.sarkariresult.com/bihar/csbc-bihar-police-driver-02-2025/",
-      "title": "CSBC Bihar Police Constable Driver PET Result 2026",
-      "date": "",
-      "id": "3dffff773f70"
-    },
-    {
-      "link": "https://www.sarkariresult.com/delhi/delhi-hc-jja-restorer-feb26/",
-      "title": "Delhi High Court JJA Result 2026",
-      "date": "",
-      "id": "2db1064b4ae0"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/ubse-class-10th-12th-result/",
-      "title": "Uttarakhand Board UBSE Class 10th, 12th Result 2026 Declared",
-      "date": "",
-      "id": "0d18c732d82e"
-    },
-    {
-      "link": "https://tinyurl.com/ycf9c7ek",
-      "title": "Patna High Court Stenographer 2025 Final Result",
-      "date": "",
-      "id": "b3a4730e146a"
     }
   ],
   "MPESB Latest Update": [],
