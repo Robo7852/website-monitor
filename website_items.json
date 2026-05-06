@@ -1,6 +1,12 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/2026/coal-india-mt-2026/",
+      "title": "Coal India CIL Management Trainee Online Form 2026",
+      "date": "",
+      "id": "97c49b9327d3"
+    },
+    {
       "link": "https://www.sarkariresult.com/railway/rrc-secr-raipur-apprentices-may26/",
       "title": "Railway SECR Raipur Apprentices Online Form 2026",
       "date": "",
@@ -41,15 +47,21 @@
       "title": "RSSB Contractual Teaching Associate Online Form 2026",
       "date": "",
       "id": "9d02823c739d"
-    },
-    {
-      "link": "https://www.sarkariresult.com/bihar/bpssc-havildar-05-2026/",
-      "title": "BPSSC Havildar Instructor Online Form 2026",
-      "date": "",
-      "id": "95cb97fe7b49"
     }
   ],
   "Sarkari Result - Admit Cards": [
+    {
+      "link": "https://www.sarkariresult.com/2024/ccc-admit-card/",
+      "title": "NIELIT CCC Admit Card May 2026",
+      "date": "",
+      "id": "fdba6181ba5f"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2022/up-pgt-02-2022/",
+      "title": "UP PGT 2022 Admit Card",
+      "date": "",
+      "id": "b6eef64ce433"
+    },
     {
       "link": "https://www.sarkariresult.com/2026/army-agniveer-2026/",
       "title": "Indian Army Agniveer CEE Admit Card Date 2026",
@@ -85,21 +97,15 @@
       "title": "UPPSC GIC Lecturer New Exam Date 2026",
       "date": "",
       "id": "4af22c5f0a1e"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/uppsc-lt-grade-teacher-2025/",
-      "title": "UPPSC LT Grade Assistant Teacher Mains Exam Date 2026",
-      "date": "",
-      "id": "4fe1d1c84bce"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/nta-cuet-ug-2026/",
-      "title": "NTA CUET UG 2026 Admit Card",
-      "date": "",
-      "id": "2c4066ce3c3d"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://doc.sarkariresults.org.in/Nabard_AM_Final_Result_may26.pdf",
+      "title": "Nabard Assistant Manager Grade A Final Result 2026",
+      "date": "",
+      "id": "fe8a37741a17"
+    },
     {
       "link": "https://www.sarkariresult.com/2026/nta-jeemain-session-2/",
       "title": "NTA JEEMAIN Session II Paper 2 Result 2026",
@@ -141,12 +147,6 @@
       "title": "Maharashtra Board HSC Class 12th Result 2026",
       "date": "",
       "id": "6a768211ba55"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/uppsc-apo/",
-      "title": "UPPSC APO 2025 Pre Result",
-      "date": "",
-      "id": "11801d0d2cdd"
     }
   ],
   "MPESB Latest Update": [],
