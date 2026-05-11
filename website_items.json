@@ -240,6 +240,12 @@
   "Vajiram Current Affairs": [],
   "CTET UPDATES": [
     {
+      "link": "https://ctet.nic.in/apply-for-ctet-sep-2026/",
+      "title": "Apply for CTET SEP 2026",
+      "date": "",
+      "id": "ad818be92956"
+    },
+    {
       "link": "https://ctet.nic.in/ctet-sept-2026-information-bulletin/",
       "title": "CTET SEPT 2026",
       "date": "",
@@ -262,12 +268,6 @@
       "title": "CTET SEPT 2026 INFORMATION BULLETIN",
       "date": "",
       "id": "a52a96dd6eb5"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/05/2026051163782266.pdf",
-      "title": "CTET PUBLIC NOTICE SEPT 2026",
-      "date": "",
-      "id": "d5c7de2194c7"
     }
   ]
 }
