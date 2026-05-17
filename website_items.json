@@ -1,6 +1,12 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/force/navy-ssc-it-jan27/",
+      "title": "Navy SSC IT Online Form 2026",
+      "date": "",
+      "id": "171b562cbb41"
+    },
+    {
       "link": "https://www.sarkariresult.com/bihar/patna-hc-dj-2026/",
       "title": "Patna High Court District Judge Online Form 2026 Extended",
       "date": "",
@@ -37,19 +43,25 @@
       "id": "9542eb6834bf"
     },
     {
-      "link": "https://www.sarkariresult.com/upsssc/upsssc-pet-all-form-2026/",
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-cane-13-exam-2026/",
       "title": "UPSSSC Cane Supervisor Online Form 2026",
       "date": "",
-      "id": "cc4d5bd76a64"
-    },
-    {
-      "link": "https://www.sarkariresult.com/force/afcat-02-2026/",
-      "title": "AFCAT 02/2026 Online Form",
-      "date": "",
-      "id": "b38b89ebb695"
+      "id": "b493084dc199"
     }
   ],
   "Sarkari Result - Admit Cards": [
+    {
+      "link": "https://www.sarkariresult.com/upsssc/upsssc-lekhpal-02-exam-2025/",
+      "title": "UPSSSC Lekhpal 2025 Mains Admit Card",
+      "date": "",
+      "id": "8b78abbd4a29"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/nta-neet-ug-2026/",
+      "title": "NEET UG 2026 Update Exam City Details",
+      "date": "",
+      "id": "f63830fe19a9"
+    },
     {
       "link": "https://www.sarkariresult.com/upsc/upsc-ias-ifs-pre-2026/",
       "title": "UPSC IAS / IFS Pre Admit Card 2026",
@@ -85,21 +97,21 @@
       "title": "NCERT LDC Admit Card 2026",
       "date": "",
       "id": "e714a81f9671"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/up-police-si-03-2025/",
-      "title": "UP Police Sub Inspector SI DV / PST Exam Date 2026",
-      "date": "",
-      "id": "34023e0caea7"
-    },
-    {
-      "link": "https://www.sarkariresult.com/bihar/bpsc-civil-judge-33-exam-2026/",
-      "title": "BPSC 33 Civil Judge Pre Exam Date 2026",
-      "date": "",
-      "id": "033ef927a2f0"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/rpsc/rsmssb-steno-pa-07-2024/",
+      "title": "RSSB Stenographer 2024 Typing Test Result",
+      "date": "",
+      "id": "cde7fb9ad724"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/nta-ntet-2026/",
+      "title": "NTA NTET Result 2026",
+      "date": "",
+      "id": "db527ad3600d"
+    },
     {
       "link": "https://www.sarkariresult.com/2025/cbse-group-abc-2025/",
       "title": "CBSE Group A, B, C Tier II Exam Result 2026",
@@ -135,18 +147,6 @@
       "title": "Haryana Board HBSE Class 12th Result 2026",
       "date": "",
       "id": "21c44ec3ebca"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2026/aiims-norcet-10th/",
-      "title": "AIIMS NORCET 10th Stage II Result 2026",
-      "date": "",
-      "id": "b05a97e16c87"
-    },
-    {
-      "link": "https://doc.sarkariresults.org.in/MPPSC_Result_State_Eligibility_Test_SET_2025_Dated_11_05_2026.pdf",
-      "title": "MPPSC State Eligibility Test SET 2025 Result",
-      "date": "",
-      "id": "10d2a196dba0"
     }
   ],
   "MPESB Latest Update": [],
