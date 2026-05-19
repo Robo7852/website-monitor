@@ -1,6 +1,12 @@
 {
   "Sarkari Result - Latest Jobs": [
     {
+      "link": "https://www.sarkariresult.com/railway/secr-nagpur-apprentices-may26/",
+      "title": "Railway SECR Nagpur Apprentices Online Form 2026",
+      "date": "",
+      "id": "e32dba53b8fa"
+    },
+    {
       "link": "https://www.sarkariresult.com/railway/secr-bilaspur-apprentices-may26/",
       "title": "Railway SECR Bilaspur Apprentices Online Form 2026",
       "date": "",
@@ -41,15 +47,21 @@
       "title": "Railway RRB Technician CEN 02/2026 Online Form",
       "date": "",
       "id": "b2bff9c1a74f"
-    },
-    {
-      "link": "https://www.sarkariresult.com/force/navy-ssc-it-jan27/",
-      "title": "Navy SSC IT Online Form 2026",
-      "date": "",
-      "id": "171b562cbb41"
     }
   ],
   "Sarkari Result - Admit Cards": [
+    {
+      "link": "https://www.sarkariresult.com/2023/allahabad-hc-hjs-2023/",
+      "title": "Allahabad High Court HJS 2023 Mains Exam Date",
+      "date": "",
+      "id": "2cc374809a7a"
+    },
+    {
+      "link": "https://www.sarkariresult.com/2026/imu-cet-2026/",
+      "title": "IMU CET Admit Card 2026",
+      "date": "",
+      "id": "abb5fa599291"
+    },
     {
       "link": "https://www.sarkariresult.com/upsssc/upsssc-lekhpal-02-exam-2025/",
       "title": "UPSSSC Lekhpal 2025 Mains Admit Card",
@@ -85,21 +97,15 @@
       "title": "DUVASU Mathura PVT Admit Card 2026",
       "date": "",
       "id": "beeb6ac7933d"
-    },
-    {
-      "link": "https://www.sarkariresult.com/bihar/bssc-ssa-02-2022/",
-      "title": "BSSC Office Attendant 2022  Mains Admit Card",
-      "date": "",
-      "id": "3af0c29695ee"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/ncert-group-abc/",
-      "title": "NCERT LDC Admit Card 2026",
-      "date": "",
-      "id": "e714a81f9671"
     }
   ],
   "Sarkari Result - Results": [
+    {
+      "link": "https://www.sarkariresult.com/delhi/dsssb-result-apr26/",
+      "title": "DSSSB PGT Sanskrit  Result 2026",
+      "date": "",
+      "id": "8ce6b11ac338"
+    },
     {
       "link": "https://www.sarkariresult.com/mp/mpesb-si-subedar-2025/",
       "title": "MPESB MP Police SI Phase II Mains Result 2026",
@@ -141,12 +147,6 @@
       "title": "NTA NTET Result 2026",
       "date": "",
       "id": "db527ad3600d"
-    },
-    {
-      "link": "https://www.sarkariresult.com/2025/cbse-group-abc-2025/",
-      "title": "CBSE Group A, B, C Tier II Exam Result 2026",
-      "date": "",
-      "id": "c7095242d055"
     }
   ],
   "MPESB Latest Update": [],
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260517182420.pdf",
-      "title": "1 Advertisement for Engagement of General Manager-Human Resources (GM-HR) on Contract Basis Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260519182850.pdf",
+      "title": "1 Press Release Read More",
       "date": "",
-      "id": "f8c9801396a5"
+      "id": "6efceed640cc"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260517182420.pdf",
+      "title": "2 Advertisement for Engagement of General Manager-Human Resources (GM-HR) on Contract Basis Read More",
+      "date": "",
+      "id": "0dafa996735f"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260517182325.pdf",
-      "title": "2 Advertisement for Engagement of Chief Finance Officer (CFO) on Contract Basis Read More",
+      "title": "3 Advertisement for Engagement of Chief Finance Officer (CFO) on Contract Basis Read More",
       "date": "",
-      "id": "a6b09f5df90d"
+      "id": "0b6aeb4161c6"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260517182255.pdf",
-      "title": "3 Advertisement for Engagement of Chief Technology Officer (CTO) on Contract Basis Read More",
+      "title": "4 Advertisement for Engagement of Chief Technology Officer (CTO) on Contract Basis Read More",
       "date": "",
-      "id": "561348825256"
+      "id": "9c0d04074813"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260517181626.pdf",
-      "title": "4 Recruitment Notification No.A-102(2)/1/2026-adm. Dated 16.5.2026 Read More",
+      "title": "5 Recruitment Notification No.A-102(2)/1/2026-adm. Dated 16.5.2026 Read More",
       "date": "",
-      "id": "2992cad564a9"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260516152513.pdf",
-      "title": "5 Conduct of Re-examination for National Eligibility-cum-Entrance Test [NEET (UG)] 2026-Reg. Read More",
-      "date": "",
-      "id": "ad0d35e64afa"
+      "id": "463565c96571"
     }
   ],
   "FMS UPDATES": [],
