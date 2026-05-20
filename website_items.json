@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/202605201462069560.pdf",
+      "title": "Public Notice regarding Extension of Last Date for submission of online application form for UGC-NET June 2026 examination",
+      "date": "",
+      "id": "d8f78a047cab"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/20260514166723442.pdf",
       "title": "Second Advisory for completion of application process of UGC-NET June 2026",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "Advisory for completion of application process of UGC-NET June 2026 Examination",
       "date": "",
       "id": "96b9245f7454"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/04/20260430737599423.pdf",
-      "title": "List of Subjects of UGC-NET June 2026 Examination",
-      "date": "",
-      "id": "b5565d4839f7"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260519182850.pdf",
-      "title": "1 Press Release Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260520174345.pdf",
+      "title": "1 Public Notice regarding Extension of Last Date for submission of online application form for UGC-NET June 2026 examination Read More",
       "date": "",
-      "id": "6efceed640cc"
+      "id": "519ae5fa4320"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260519182850.pdf",
+      "title": "2 Press Release Read More",
+      "date": "",
+      "id": "c5c8923cda42"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260517182420.pdf",
-      "title": "2 Advertisement for Engagement of General Manager-Human Resources (GM-HR) on Contract Basis Read More",
+      "title": "3 Advertisement for Engagement of General Manager-Human Resources (GM-HR) on Contract Basis Read More",
       "date": "",
-      "id": "0dafa996735f"
+      "id": "a6d6b184fbc7"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260517182325.pdf",
-      "title": "3 Advertisement for Engagement of Chief Finance Officer (CFO) on Contract Basis Read More",
+      "title": "4 Advertisement for Engagement of Chief Finance Officer (CFO) on Contract Basis Read More",
       "date": "",
-      "id": "0b6aeb4161c6"
+      "id": "ee80b9ddda01"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260517182255.pdf",
-      "title": "4 Advertisement for Engagement of Chief Technology Officer (CTO) on Contract Basis Read More",
+      "title": "5 Advertisement for Engagement of Chief Technology Officer (CTO) on Contract Basis Read More",
       "date": "",
-      "id": "9c0d04074813"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260517181626.pdf",
-      "title": "5 Recruitment Notification No.A-102(2)/1/2026-adm. Dated 16.5.2026 Read More",
-      "date": "",
-      "id": "463565c96571"
+      "id": "692dabb55e18"
     }
   ],
   "FMS UPDATES": [],
