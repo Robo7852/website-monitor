@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/20260522880877469.pdf",
+      "title": "Third Advisory for completion of application process of UGC-NET June 2026 examination",
+      "date": "",
+      "id": "1cb899aacc6f"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/202605201462069560.pdf",
       "title": "Public Notice regarding Extension of Last Date for submission of online application form for UGC-NET June 2026 examination",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "Public Notice regarding Advisory for submission of application form of UGC-NET June 2026 examination",
       "date": "",
       "id": "b89afd977c1d"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/20260507379238540.pdf",
-      "title": "Advisory for completion of application process of UGC-NET June 2026 Examination",
-      "date": "",
-      "id": "96b9245f7454"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260520174345.pdf",
-      "title": "1 Public Notice regarding Extension of Last Date for submission of online application form for UGC-NET June 2026 examination Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260522222657.pdf",
+      "title": "1 Declaration of Result of National Council for Hotel Management Joint Entrance Examination (NCHM JEE) - 2026 Read More",
       "date": "",
-      "id": "519ae5fa4320"
+      "id": "1cc711199ed3"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260522222328.pdf",
+      "title": "2 Public Notice dated 12.05.2026 regarding refund of examination fee for NEET (UG)-2026 Read More",
+      "date": "",
+      "id": "6481a676bd14"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260520174345.pdf",
+      "title": "3 Public Notice regarding Extension of Last Date for submission of online application form for UGC-NET June 2026 examination Read More",
+      "date": "",
+      "id": "6af43b96b8e3"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260519182850.pdf",
-      "title": "2 Press Release Read More",
+      "title": "4 Press Release Read More",
       "date": "",
-      "id": "c5c8923cda42"
+      "id": "fc2c08e87fbf"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260517182420.pdf",
-      "title": "3 Advertisement for Engagement of General Manager-Human Resources (GM-HR) on Contract Basis Read More",
+      "title": "5 Advertisement for Engagement of General Manager-Human Resources (GM-HR) on Contract Basis Read More",
       "date": "",
-      "id": "a6d6b184fbc7"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260517182325.pdf",
-      "title": "4 Advertisement for Engagement of Chief Finance Officer (CFO) on Contract Basis Read More",
-      "date": "",
-      "id": "ee80b9ddda01"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260517182255.pdf",
-      "title": "5 Advertisement for Engagement of Chief Technology Officer (CTO) on Contract Basis Read More",
-      "date": "",
-      "id": "692dabb55e18"
+      "id": "63d4c569d2e7"
     }
   ],
   "FMS UPDATES": [],
