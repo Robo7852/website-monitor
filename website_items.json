@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/2026052749495430.pdf",
+      "title": "Public Notice regarding Addition of Examination Cities and Expansion of City Choice Options for UGC-NET June 2026 Examination",
+      "date": "",
+      "id": "2ec0052d1f2f"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/202605261722361671.pdf",
       "title": "Public Notice regarding Correction in particulars of the Online Application Form for UGC-NET June 2026",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "Public Notice regarding Extension of Last Date for submission of online application form for UGC-NET June 2026 examination",
       "date": "",
       "id": "d8f78a047cab"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/20260514166723442.pdf",
-      "title": "Second Advisory for completion of application process of UGC-NET June 2026",
-      "date": "",
-      "id": "01754bc66551"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260526121738.pdf",
-      "title": "1 Public Notice regarding Correction in particulars of the Online Application Form for UGC-NET June 2026 examination Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260527195858.pdf",
+      "title": "1 Release of Admit Cards for Re-scheduled CUET (UG) 2026 Examination Candidates-reg. Read More",
       "date": "",
-      "id": "bfc129c00d76"
+      "id": "15091d2d656d"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260527175411.pdf",
+      "title": "2 Public Notice regarding Addition of Examination Cities and Expansion of City Choice Options for UGC-NET June 2026 Examination Read More",
+      "date": "",
+      "id": "aa58d981e91e"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260526121738.pdf",
+      "title": "3 Public Notice regarding Correction in particulars of the Online Application Form for UGC-NET June 2026 examination Read More",
+      "date": "",
+      "id": "7d9cf87ac86f"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260524180310.pdf",
-      "title": "2 Rescheduling of Common University Entrance Test [CUET (UG)] 2026– Reg. Read More",
+      "title": "4 Rescheduling of Common University Entrance Test [CUET (UG)] 2026– Reg. Read More",
       "date": "",
-      "id": "9de765656d16"
+      "id": "e5f7f98dc142"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260525132221.pdf",
-      "title": "3 Display of Provisional Answer Keys and Question Papers with recorded Responses for Answer Key Challenge of Graduate Aptitude Test - Biotechnology (GAT-B) and Biotechnology Eligibility Test (BET) 2026. Read More",
+      "title": "5 Display of Provisional Answer Keys and Question Papers with recorded Responses for Answer Key Challenge of Graduate Aptitude Test - Biotechnology (GAT-B) and Biotechnology Eligibility Test (BET) 2026. Read More",
       "date": "",
-      "id": "adf36c79a874"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260522222657.pdf",
-      "title": "4 Declaration of Result of National Council for Hotel Management Joint Entrance Examination (NCHM JEE) - 2026 Read More",
-      "date": "",
-      "id": "33d0c8618e58"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260522222328.pdf",
-      "title": "5 Public Notice dated 12.05.2026 regarding refund of examination fee for NEET (UG)-2026 Read More",
-      "date": "",
-      "id": "af7da3e20c5d"
+      "id": "e25ae067f079"
     }
   ],
   "FMS UPDATES": [],
