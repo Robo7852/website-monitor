@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/20260618603677570.pdf",
+      "title": "Public Notice regarding opening of Portal for Submitting Scribe Details by the PwDPwBD Candidates of UGC-NET June 2026 exam",
+      "date": "",
+      "id": "1cbd62470294"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/202606172040939335.pdf",
       "title": "Public Notice regarding the release of Admit Card for the UGC-NET June 2026 examination",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "Public Notice regarding Addition of Examination Cities and Expansion of City Choice Options for UGC-NET June 2026 Examination",
       "date": "",
       "id": "2ec0052d1f2f"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/05/202605261722361671.pdf",
-      "title": "Public Notice regarding Correction in particulars of the Online Application Form for UGC-NET June 2026",
-      "date": "",
-      "id": "2a214f2ff809"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260617200534.PDF",
-      "title": "1 Downloading of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026, Scheduled on 21 June 2026- reg. Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260618113547.PDF",
+      "title": "1 Public Notice regarding opening of Portal for Submitting Scribe Details by the PwDPwBD Candidates of UGC-NET June 2026 examination Read More",
       "date": "",
-      "id": "bac1a9914226"
+      "id": "2968d31103dd"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260617200534.PDF",
+      "title": "2 Downloading of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026, Scheduled on 21 June 2026- reg. Read More",
+      "date": "",
+      "id": "04f3b50afed9"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260617081519.pdf",
-      "title": "2 Public Notice regarding the release of Admit Card for the UGC–NET June 2026 examination Read More",
+      "title": "3 Public Notice regarding the release of Admit Card for the UGC–NET June 2026 examination Read More",
       "date": "",
-      "id": "9aa59d604940"
+      "id": "0ef4c3e24bfe"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260616120254.pdf",
-      "title": "3 NTA STATEMENT REGARDING THE ACTION ON TELEGRAM  PLATFORM IN INDIA Read More",
+      "title": "4 NTA STATEMENT REGARDING THE ACTION ON TELEGRAM  PLATFORM IN INDIA Read More",
       "date": "",
-      "id": "003e309b3f71"
+      "id": "08bb3ad5f41c"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260615142221.pdf",
-      "title": "4 Public Notice regarding Student-Friendly Measures Introduced for NEET (UG)-2026 Examination Read More",
+      "title": "5 Public Notice regarding Student-Friendly Measures Introduced for NEET (UG)-2026 Examination Read More",
       "date": "",
-      "id": "9aed88dac3e7"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260614190141.pdf",
-      "title": "5 Release of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026, Scheduled on 21 June 2026- reg. Read More",
-      "date": "",
-      "id": "93957011d062"
+      "id": "af625b3970c6"
     }
   ],
   "FMS UPDATES": [],
