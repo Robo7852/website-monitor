@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/202608161987098773.pdf",
+      "title": "Public Notice Re-conduct of the English, Commerce and Sociology papers",
+      "date": "",
+      "id": "4036fae30a3f"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/20260816809171641.pdf",
       "title": "Public Notice regarding Challenge of Provisional Answer Keys for UGC-NET June 2026",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "Public Notice regarding opening of Portal for Submitting Scribe Details by the PwDPwBD Candidates of UGC-NET June 2026 exam",
       "date": "",
       "id": "1cbd62470294"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/202606172040939335.pdf",
-      "title": "Public Notice regarding the release of Admit Card for the UGC-NET June 2026 examination",
-      "date": "",
-      "id": "e0f46292511e"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260816162703.pdf",
-      "title": "1 Provisional Answer Keys and Question Papers with Recorded Responses for Inviting Challenges for ICAR AIEEA (PG) & AICE- JRF/SRF (Ph.D.)–2026–reg. Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260816203522.pdf",
+      "title": "1 Public Notice regarding Re-conduct of the English, Commerce and Sociology papers Read More",
       "date": "",
-      "id": "bb42884b22a2"
+      "id": "0d575e5bbae0"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260816162703.pdf",
+      "title": "2 Provisional Answer Keys and Question Papers with Recorded Responses for Inviting Challenges for ICAR AIEEA (PG) & AICE- JRF/SRF (Ph.D.)–2026–reg. Read More",
+      "date": "",
+      "id": "b207c6415dc5"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260816101710.pdf",
-      "title": "2 Display of Provisional Answer Keys and Question Papers with recorded responses for the Answer Key Challenge of the Joint CSIR-UGC NET June 2026 Read More",
+      "title": "3 Display of Provisional Answer Keys and Question Papers with recorded responses for the Answer Key Challenge of the Joint CSIR-UGC NET June 2026 Read More",
       "date": "",
-      "id": "4fa36049f458"
+      "id": "bd7166ddbb22"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260816120713.pdf",
-      "title": "3 Public Notice regarding Challenge of Provisional Answer Keys for UGC-NET June 2026 Read More",
+      "title": "4 Public Notice regarding Challenge of Provisional Answer Keys for UGC-NET June 2026 Read More",
       "date": "",
-      "id": "91c412320a65"
+      "id": "8274e2d17f71"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260813181124.pdf",
-      "title": "4 Advance Intimation of Examination City allotted to the applicants of the All India Ayush Post Graduate Entrance Test (AIAPGET) – 2026 - Reg. Read More",
+      "title": "5 Advance Intimation of Examination City allotted to the applicants of the All India Ayush Post Graduate Entrance Test (AIAPGET) – 2026 - Reg. Read More",
       "date": "",
-      "id": "5a05c04072bc"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260810134615.pdf",
-      "title": "5 Provisional AnswerKey Public Notice CSIR NET, UGC NET, ICAR AIEEA (PG) &,AICE (PhD) Read More",
-      "date": "",
-      "id": "6db9a2121b9e"
+      "id": "6b674b704b5e"
     }
   ],
   "FMS UPDATES": [],
