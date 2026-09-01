@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609011468275818.pdf",
+      "title": "Advance Intimation for Allotment of Re-Examination City to the Applicants of UGC-NET June 2026-reg",
+      "date": "",
+      "id": "64ce828d73ca"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/20260828605740344.pdf",
       "title": "Declaration of results of UGC-NET June 2026 – reg.",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "Public Notice Re-conduct of the English, Commerce and Sociology papers",
       "date": "",
       "id": "4036fae30a3f"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/20260816809171641.pdf",
-      "title": "Public Notice regarding Challenge of Provisional Answer Keys for UGC-NET June 2026",
-      "date": "",
-      "id": "8e79ac3aeb5f"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260829230847.pdf",
-      "title": "1 Declaration of results of the Indian Council of Agricultural Research (ICAR) - AIEEA PG and AICE-JRF/SRF (PhD) programs for the academic year 2026-27 Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260901173447.pdf",
+      "title": "1 Advance Intimation for Allotment of Re-Examination City to the Applicants of UGC-NET June 2026-reg Read More",
       "date": "",
-      "id": "d9122ddd1483"
+      "id": "1c718004c04d"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260829230847.pdf",
+      "title": "2 Declaration of results of the Indian Council of Agricultural Research (ICAR) - AIEEA PG and AICE-JRF/SRF (PhD) programs for the academic year 2026-27 Read More",
+      "date": "",
+      "id": "acadbc5e2859"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260829222626.pdf",
-      "title": "2 Final Answer Keys of Indian Council of Agricultural Research (ICAR) All India Entrance Examination for Admission [AIEEA]-PG and All India Competitive Examination (AICE)-JRF/SRF (Ph.D.) – 2026 - reg Read More",
+      "title": "3 Final Answer Keys of Indian Council of Agricultural Research (ICAR) All India Entrance Examination for Admission [AIEEA]-PG and All India Competitive Examination (AICE)-JRF/SRF (Ph.D.) – 2026 - reg Read More",
       "date": "",
-      "id": "588ebff6a0ed"
+      "id": "51b2d8adb555"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260829181317.PDF",
-      "title": "3 Declaration of Scores of the Joint CSIR-UGC NET June 2026 Examination Read More",
+      "title": "4 Declaration of Scores of the Joint CSIR-UGC NET June 2026 Examination Read More",
       "date": "",
-      "id": "419690fe23e7"
+      "id": "36c5343620af"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260829145958.pdf",
-      "title": "4 Display of Final Answer Keys of Joint CSIR-UGC NET June 2026 - reg. Read More",
+      "title": "5 Display of Final Answer Keys of Joint CSIR-UGC NET June 2026 - reg. Read More",
       "date": "",
-      "id": "8d5d713e47fc"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260829141952.pdf",
-      "title": "5 Release of Admit Cards for Re-Examination of 49 affected candidates of AIAPGET-2026 at Jaipur - reg. Read More",
-      "date": "",
-      "id": "77cd5d6c9e44"
+      "id": "7a97ededc03d"
     }
   ],
   "FMS UPDATES": [],
