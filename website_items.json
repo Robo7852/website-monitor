@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/20260908411031566.pdf",
+      "title": "Public Notice regarding Advisory to candidates appearing for UGC-NET Re-Examination at Centre in Delhi",
+      "date": "",
+      "id": "d7f8e579b1b3"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609041872400707.pdf",
       "title": "Release of Admit Card for the UGC-NET June 2026 re-examination on 9th and 10th September 2026-reg",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "UGC-NET Exam June-2026, (84) Subjects Category Wise Cut off Marks",
       "date": "",
       "id": "a5c59ec8c08b"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/20260828776295170.pdf",
-      "title": "Display of Final Answer Keys of UGC-NET June 2026 – reg.",
-      "date": "",
-      "id": "ca9c25de8915"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260904214736.pdf",
-      "title": "1 Release of Admit Card for the UGC-NET June 2026 re-examination on 9th and 10th September 2026 -reg Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260908120656.pdf",
+      "title": "1 Public Notice regarding Advisory to candidates appearing for UGC-NET Re-Examination at Centre in Delhi Read More",
       "date": "",
-      "id": "c473c39b2faf"
+      "id": "583823ad7cb9"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260904214736.pdf",
+      "title": "2 Release of Admit Card for the UGC-NET June 2026 re-examination on 9th and 10th September 2026 -reg Read More",
+      "date": "",
+      "id": "d0785a60c0c5"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260903212505.pdf",
-      "title": "2 Provisional Answer Keys and Question Papers with Recorded Responses for Inviting Challenges for All India Ayush Post Graduate Entrance Test (AIAPGET)-2026 -reg. Read More",
+      "title": "3 Provisional Answer Keys and Question Papers with Recorded Responses for Inviting Challenges for All India Ayush Post Graduate Entrance Test (AIAPGET)-2026 -reg. Read More",
       "date": "",
-      "id": "1e22b032cda0"
+      "id": "4a8d1ed23d84"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260902173831.pdf",
-      "title": "3 Vacancy notification for Bilingual typist and operation assistant Read More",
+      "title": "4 Vacancy notification for Bilingual typist and operation assistant Read More",
       "date": "",
-      "id": "eb400b59441a"
+      "id": "b9b2b0305ff4"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260901232135.pdf",
-      "title": "4 Inviting Online Application Form for Rashtriya Indian Military College Entrance Examination (RIMCEE) - 2026 Read More",
+      "title": "5 Inviting Online Application Form for Rashtriya Indian Military College Entrance Examination (RIMCEE) - 2026 Read More",
       "date": "",
-      "id": "d0e68ee6245e"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260901173447.pdf",
-      "title": "5 Advance Intimation for Allotment of Re-Examination City to the Applicants of UGC-NET June 2026-reg Read More",
-      "date": "",
-      "id": "0eb784926143"
+      "id": "6d05eb35a5bd"
     }
   ],
   "FMS UPDATES": [],
