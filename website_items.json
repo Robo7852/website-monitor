@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/202609101788985717.pdf",
+      "title": "Challenge of Provisional Answer Keys for UGC-NET June 2026 Re-Exam-reg.",
+      "date": "",
+      "id": "9ab81423b83f"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/09/20260908411031566.pdf",
       "title": "Public Notice regarding Advisory to candidates appearing for UGC-NET Re-Examination at Centre in Delhi",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "Declaration of results of UGC-NET June 2026 – reg.",
       "date": "",
       "id": "5b92779d5c8b"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/08/2026082829087103.pdf",
-      "title": "UGC-NET Exam June-2026, (84) Subjects Category Wise Cut off Marks",
-      "date": "",
-      "id": "a5c59ec8c08b"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260909172041.pdf",
-      "title": "1 Extension of last date for inviting application for various posts in National Testing agency (NTA) on deputation basis-Reg Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260910210851.pdf",
+      "title": "1 Challenge of Provisional Answer Keys for UGC-NET June 2026 Re-Exam-reg. Read More",
       "date": "",
-      "id": "73bb4044dcfd"
+      "id": "fabe72f0bc07"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20260909172041.pdf",
+      "title": "2 Extension of last date for inviting application for various posts in National Testing agency (NTA) on deputation basis-Reg Read More",
+      "date": "",
+      "id": "acc439d9d6b3"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260908120656.pdf",
-      "title": "2 Public Notice regarding Advisory to candidates appearing for UGC-NET Re-Examination at Centre in Delhi Read More",
+      "title": "3 Public Notice regarding Advisory to candidates appearing for UGC-NET Re-Examination at Centre in Delhi Read More",
       "date": "",
-      "id": "eabaa7a71b13"
+      "id": "8cb7d312b01b"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260904214736.pdf",
-      "title": "3 Release of Admit Card for the UGC-NET June 2026 re-examination on 9th and 10th September 2026 -reg Read More",
+      "title": "4 Release of Admit Card for the UGC-NET June 2026 re-examination on 9th and 10th September 2026 -reg Read More",
       "date": "",
-      "id": "f4cd565a0a4b"
+      "id": "e65c94dcfe28"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20260903212505.pdf",
-      "title": "4 Provisional Answer Keys and Question Papers with Recorded Responses for Inviting Challenges for All India Ayush Post Graduate Entrance Test (AIAPGET)-2026 -reg. Read More",
+      "title": "5 Provisional Answer Keys and Question Papers with Recorded Responses for Inviting Challenges for All India Ayush Post Graduate Entrance Test (AIAPGET)-2026 -reg. Read More",
       "date": "",
-      "id": "372b4c6c4062"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20260902173831.pdf",
-      "title": "5 Vacancy notification for Bilingual typist and operation assistant Read More",
-      "date": "",
-      "id": "1fa2534d8c34"
+      "id": "46b7ed8a8448"
     }
   ],
   "FMS UPDATES": [],
