@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610161905649093.pdf",
+      "title": "Corrigendum to the Information Bulletin of UGC-NET December 2026 Examination – reg",
+      "date": "",
+      "id": "ac685f33cc6c"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
       "title": "Opening of the online registration portal for submission of Online Application Form for UGC-NET December 2026 examination – reg",
       "date": "",
@@ -181,34 +187,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20261009123259.pdf",
-      "title": "1 Inviting Online Application Form for Study Webs of Active Learning for Young Aspiring Minds [SWAYAM-2026 (July Semester)] -reg. Read More",
+      "link": "http://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610161905649093.pdf",
+      "title": "1 Public Notice Corrigendum to the Information Bulletin of UGC-NET December 2026 Examination",
       "date": "",
-      "id": "6f50810dc941"
+      "id": "ee66bce653db"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20261016183525.pdf",
+      "title": "2 Inviting Online Applications for the National Institute of Fashion Technology Entrance Examination (NIFTEE)–2027 for Admissions to UG, PG, NLEA, Artisans and Ph.D. Programmes-reg. Read More",
+      "date": "",
+      "id": "235456dc2532"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20261009123259.pdf",
+      "title": "3 Inviting Online Application Form for Study Webs of Active Learning for Young Aspiring Minds [SWAYAM-2026 (July Semester)] -reg. Read More",
+      "date": "",
+      "id": "2681dbb584f3"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20261008212430.pdf",
-      "title": "2 Opening of the online registration portal for submission of Online Application Form for UGC-NET December 2026 examination – reg Read More",
+      "title": "4 Opening of the online registration portal for submission of Online Application Form for UGC-NET December 2026 examination – reg Read More",
       "date": "",
-      "id": "254c2407c9e0"
+      "id": "666e7aa2b0ef"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20261008083141.pdf",
-      "title": "3 Inviting Online Application for Joint CSIR UGC-NET December 2026 Read More",
+      "title": "5 Inviting Online Application for Joint CSIR UGC-NET December 2026 Read More",
       "date": "",
-      "id": "58696fb6d56a"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20261007204855.pdf",
-      "title": "4 Vacancy Notification for Librarian - Administration Read More",
-      "date": "",
-      "id": "81285fe05ecb"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20261007203421.pdf",
-      "title": "5 Correction in Particulars of the Online Application Form of Rashtriya Indian Military College Entrance Examination (RIMCEE) Read More",
-      "date": "",
-      "id": "dfc3d74ce41d"
+      "id": "346721be4130"
     }
   ],
   "FMS UPDATES": [],
