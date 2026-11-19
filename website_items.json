@@ -153,6 +153,12 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/11/202611191150926021.pdf",
+      "title": "Public Notice for Subject-wise schedule of UGC-NET December 2026 Examination-Reg.",
+      "date": "",
+      "id": "bb0c64569b90"
+    },
+    {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/11/20261102472201336.pdf",
       "title": "Public Notice regarding Correction in particulars of the Online Application Form for UGC-NET December 2026",
       "date": "",
@@ -175,12 +181,6 @@
       "title": "Corrigendum to the Information Bulletin of UGC-NET December 2026 Examination – reg",
       "date": "",
       "id": "ac685f33cc6c"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
-      "title": "Opening of the online registration portal for submission of Online Application Form for UGC-NET December 2026 examination – reg",
-      "date": "",
-      "id": "cca86b457b6e"
     }
   ],
   "ALL INDIA BAR EXAMINATION": [
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20261117205801.pdf",
-      "title": "1 Advance Intimation of Examination City allotted to the applicants of the Rashtriya Indian Military College Entrance Examination (RIMCEE)–2026 Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20261119125453.pdf",
+      "title": "1 Public Notice for Subject-wise schedule of UGC-NET December 2026 Examination-Reg. Read More",
       "date": "",
-      "id": "18408477cc01"
+      "id": "7d573f9d389c"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20261117205801.pdf",
+      "title": "2 Advance Intimation of Examination City allotted to the applicants of the Rashtriya Indian Military College Entrance Examination (RIMCEE)–2026 Read More",
+      "date": "",
+      "id": "f0d9a4b715d1"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20261114192445.pdf",
-      "title": "2 Inviting Online Applications for SHRESHTA (NETS) – 2027 Read More",
+      "title": "3 Inviting Online Applications for SHRESHTA (NETS) – 2027 Read More",
       "date": "",
-      "id": "2b4ae3628aa7"
+      "id": "34f5a8f51c8f"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20261114165715.pdf",
-      "title": "3 Extension of Registration Dates for the National Institute of Fashion Technology Entrance Examination (NIFTEE)–2027 Read More",
+      "title": "4 Extension of Registration Dates for the National Institute of Fashion Technology Entrance Examination (NIFTEE)–2027 Read More",
       "date": "",
-      "id": "e6138188be6d"
+      "id": "2d5327b15e2d"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20261112175300.pdf",
-      "title": "4 Publication of Vacancy Notification for Various Posts in the NTA Read More",
+      "title": "5 Publication of Vacancy Notification for Various Posts in the NTA Read More",
       "date": "",
-      "id": "32980b351759"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20261110115638.pdf",
-      "title": "5 Correction in the particulars of the online Application Form of Joint CSIR-UGC NET December 2026 Read More",
-      "date": "",
-      "id": "ad9c72d8d192"
+      "id": "5342f6945150"
     }
   ],
   "FMS UPDATES": [],
