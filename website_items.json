@@ -241,6 +241,12 @@
   "Vajiram Current Affairs": [],
   "CTET UPDATES": [
     {
+      "link": "https://ctet.nic.in/observer-consent-for-dec-1213-2026/",
+      "title": "OBSERVER CONSENT for Dec 12,13 2026",
+      "date": "",
+      "id": "7b193d4de50b"
+    },
+    {
       "link": "https://ctet.nic.in/ctet-sep-2026-login-2/",
       "title": "CTET SEP 2026 Login",
       "date": "",
@@ -263,12 +269,6 @@
       "title": "PUBLIC NOTICE: Exam Dates for 22nd edition of CTET",
       "date": "",
       "id": "44a4514bb87f"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/09/20260907461266783.pdf",
-      "title": "PUBLIC NOTICE: CTET SEP-2026 CORRECTION WINDOW (last date 10.09.2026)",
-      "date": "",
-      "id": "14470a3f5558"
     }
   ]
 }
