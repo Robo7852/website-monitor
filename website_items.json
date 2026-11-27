@@ -153,10 +153,10 @@
   "SSC - Latest Updates": [],
   "UGC NET UPDATES": [
     {
-      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/11/202611261746917087.pdf",
+      "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/11/20261127999504939.pdf",
       "title": "Opportunity for candidates allotted an Examination City outside their four preferences to select another Examination City – UGC-NET December 2026 – reg.",
       "date": "",
-      "id": "6c42ad9dee2d"
+      "id": "4173abe017cb"
     },
     {
       "link": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/11/20261125928720756.pdf",
@@ -199,34 +199,34 @@
   ],
   "NTA UPDATES": [
     {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20261126205025.pdf",
-      "title": "1 Opportunity for candidates allotted an Examination City outside their four preferences to select another Examination City – UGC-NET December 2026 – reg. Read More",
+      "link": "https://nta.ac.in/Download/Notice/Notice_20261127125048.pdf",
+      "title": "1 Correction in Particulars of Online Application Form of Joint Entrance Examination(Main) - 2027 (Session 1)- Reg. Read More",
       "date": "",
-      "id": "16661be3822f"
+      "id": "5354476fda47"
+    },
+    {
+      "link": "https://nta.ac.in/Download/Notice/Notice_20261126205025.pdf",
+      "title": "2 Opportunity for candidates allotted an Examination City outside their four preferences to select another Examination City – UGC-NET December 2026 – reg. Read More",
+      "date": "",
+      "id": "298a937527f5"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20261126182327.pdf",
-      "title": "2 Advance Intimation of Examination City allotted to the applicants of the Rashtriya Military School Common Entrance Test (RMS CET)-2026- Reg. Read More",
+      "title": "3 Advance Intimation of Examination City allotted to the applicants of the Rashtriya Military School Common Entrance Test (RMS CET)-2026- Reg. Read More",
       "date": "",
-      "id": "ee950052fe61"
+      "id": "ac035773b5c4"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20261125231704.pdf",
-      "title": "3 Advance Intimation of Examination City for UGC-NET December 2026 – reg. Read More",
+      "title": "4 Advance Intimation of Examination City for UGC-NET December 2026 – reg. Read More",
       "date": "",
-      "id": "854594f89d34"
+      "id": "6ae0a1235aa8"
     },
     {
       "link": "https://nta.ac.in/Download/Notice/Notice_20261125203042.pdf",
-      "title": "4 Engagement of Office Assistant (OA) at NTA on contractual basis Read More",
+      "title": "5 Engagement of Office Assistant (OA) at NTA on contractual basis Read More",
       "date": "",
-      "id": "894ee1ffb43b"
-    },
-    {
-      "link": "https://nta.ac.in/Download/Notice/Notice_20261125175249.pdf",
-      "title": "5 Important Advisory to Candidates Regarding Examination Schedule, Reporting Time, Lunch Break and Other Instructions for RIMC Entrance Examination Scheduled on 06 December 2026. Read More",
-      "date": "",
-      "id": "04f63ae23ce2"
+      "id": "ae2589163785"
     }
   ],
   "FMS UPDATES": [],
@@ -241,10 +241,16 @@
   "Vajiram Current Affairs": [],
   "CTET UPDATES": [
     {
-      "link": "https://ctet.nic.in/observer-consent-for-dec-1213-2026/",
-      "title": "OBSERVER CONSENT for Dec 12,13 2026",
+      "link": "https://ctet.nic.in/view-examination-city-for-ctet-dec-2026-link2/",
+      "title": "View Examination City for CTET Dec 2026 : Link2",
       "date": "",
-      "id": "7b193d4de50b"
+      "id": "97901142f8c0"
+    },
+    {
+      "link": "https://ctet.nic.in/view-centre-city-for-ctet-dec-2026/",
+      "title": "View Examination City for CTET Dec 2026 : Link1",
+      "date": "",
+      "id": "61372043aa51"
     },
     {
       "link": "https://ctet.nic.in/ctet-sep-2026-login-2/",
@@ -263,12 +269,6 @@
       "title": "News & Events",
       "date": "",
       "id": "5ebf6ce53795"
-    },
-    {
-      "link": "https://cdnbbsr.s3waas.gov.in/s3443dec3062d0286986e21dc0631734c9/uploads/2026/09/20260914325514446.pdf",
-      "title": "PUBLIC NOTICE: Exam Dates for 22nd edition of CTET",
-      "date": "",
-      "id": "44a4514bb87f"
     }
   ]
 }
